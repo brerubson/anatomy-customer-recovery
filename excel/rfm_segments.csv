@@ -1,0 +1,5873 @@
+customer_id,segment,ecosystems_purchased
+C00001,Champions,5
+C00002,Lapsed,3
+C00003,Lapsed,3
+C00004,Loyal,5
+C00005,Developing,4
+C00006,Loyal,5
+C00007,Champions,5
+C00008,Lapsed,4
+C00009,Champions,5
+C00010,Developing,5
+C00011,Champions,5
+C00012,At Risk,5
+C00014,At Risk,4
+C00015,Champions,5
+C00016,Champions,4
+C00017,Lapsed,4
+C00018,Lapsed,2
+C00019,Loyal,5
+C00020,New,5
+C00021,Developing,2
+C00022,Champions,5
+C00023,Developing,2
+C00024,Loyal,5
+C00025,Developing,5
+C00026,New,4
+C00027,Developing,4
+C00028,At Risk,5
+C00029,At Risk,5
+C00030,At Risk,5
+C00031,Developing,5
+C00032,Champions,5
+C00033,Champions,5
+C00034,Lapsed,4
+C00035,Developing,5
+C00036,Lapsed,4
+C00037,Lapsed,4
+C00038,Lapsed,4
+C00039,Lapsed,4
+C00040,At Risk,4
+C00041,Developing,4
+C00042,Champions,5
+C00043,New,5
+C00044,Lapsed,5
+C00045,Champions,5
+C00046,Developing,5
+C00047,Lapsed,4
+C00048,Developing,5
+C00049,Loyal,5
+C00050,Developing,4
+C00051,Champions,5
+C00052,New,2
+C00053,Lapsed,4
+C00054,At Risk,5
+C00055,Lapsed,1
+C00056,New,3
+C00057,Lapsed,4
+C00058,Lapsed,2
+C00059,At Risk,5
+C00060,Loyal,5
+C00061,Developing,4
+C00062,New,4
+C00063,Champions,5
+C00064,New,1
+C00065,Loyal,5
+C00066,Developing,4
+C00067,New,2
+C00068,New,5
+C00069,Developing,4
+C00070,Champions,5
+C00071,Champions,5
+C00072,Lapsed,4
+C00073,Lapsed,5
+C00074,Lapsed,5
+C00075,Loyal,5
+C00076,Champions,5
+C00077,At Risk,4
+C00078,Lapsed,4
+C00079,Champions,5
+C00080,Developing,5
+C00081,Loyal,5
+C00082,Champions,5
+C00083,At Risk,5
+C00084,At Risk,4
+C00085,New,4
+C00086,Developing,5
+C00087,Developing,5
+C00088,Lapsed,3
+C00089,Loyal,5
+C00090,Developing,4
+C00091,Developing,5
+C00092,New,3
+C00093,Champions,5
+C00094,New,5
+C00095,Loyal,5
+C00096,Lapsed,4
+C00097,Champions,4
+C00098,Lapsed,5
+C00099,Developing,5
+C00100,Champions,5
+C00101,Lapsed,4
+C00102,Lapsed,4
+C00103,Lapsed,4
+C00104,Loyal,5
+C00105,Developing,5
+C00106,Loyal,5
+C00107,Champions,5
+C00108,Loyal,5
+C00109,Lapsed,2
+C00110,New,1
+C00111,New,5
+C00112,New,4
+C00113,Lapsed,4
+C00114,Champions,5
+C00115,Developing,5
+C00116,Champions,5
+C00117,Loyal,5
+C00118,Lapsed,2
+C00119,Lapsed,5
+C00120,New,3
+C00121,Lapsed,5
+C00122,At Risk,5
+C00123,Champions,5
+C00124,Champions,5
+C00125,At Risk,5
+C00126,Lapsed,4
+C00128,Lapsed,1
+C00129,Loyal,5
+C00130,Developing,4
+C00131,Champions,5
+C00132,Lapsed,3
+C00133,Lapsed,5
+C00135,New,4
+C00136,Champions,5
+C00137,New,5
+C00138,Champions,5
+C00139,New,1
+C00140,At Risk,5
+C00141,Lapsed,3
+C00142,Lapsed,2
+C00143,Champions,5
+C00144,Champions,4
+C00145,Developing,4
+C00146,Champions,5
+C00147,New,5
+C00148,Lapsed,5
+C00149,Developing,4
+C00150,New,4
+C00151,At Risk,5
+C00152,Lapsed,5
+C00153,Champions,5
+C00154,Lapsed,3
+C00155,Lapsed,3
+C00156,Champions,5
+C00157,Developing,5
+C00158,Lapsed,1
+C00159,Loyal,5
+C00160,Lapsed,4
+C00161,Lapsed,2
+C00162,At Risk,4
+C00163,At Risk,5
+C00164,Champions,5
+C00165,At Risk,4
+C00166,Champions,5
+C00167,Developing,5
+C00168,Developing,4
+C00169,Lapsed,2
+C00170,Champions,5
+C00171,Lapsed,4
+C00172,Champions,5
+C00173,At Risk,4
+C00174,Lapsed,4
+C00175,At Risk,5
+C00176,New,4
+C00177,At Risk,4
+C00178,Champions,5
+C00179,Developing,5
+C00180,At Risk,4
+C00181,Lapsed,5
+C00182,New,2
+C00183,Champions,5
+C00184,Lapsed,5
+C00185,Lapsed,3
+C00186,New,4
+C00187,Lapsed,4
+C00188,Lapsed,3
+C00189,New,4
+C00190,Loyal,5
+C00191,Developing,2
+C00192,Champions,5
+C00193,New,3
+C00194,Champions,5
+C00195,Champions,5
+C00196,Lapsed,4
+C00197,Developing,4
+C00198,Lapsed,4
+C00199,Developing,5
+C00200,New,1
+C00201,Lapsed,5
+C00202,Loyal,5
+C00203,Champions,5
+C00204,Loyal,4
+C00205,Lapsed,4
+C00206,Loyal,5
+C00207,Lapsed,3
+C00208,New,2
+C00209,At Risk,5
+C00210,Champions,5
+C00211,Champions,5
+C00212,Lapsed,5
+C00213,At Risk,5
+C00214,Developing,4
+C00215,Developing,5
+C00216,Developing,5
+C00217,Champions,5
+C00218,New,5
+C00219,Loyal,5
+C00220,At Risk,4
+C00221,New,3
+C00222,At Risk,5
+C00223,New,3
+C00224,Champions,5
+C00225,Champions,5
+C00226,Developing,4
+C00227,Champions,5
+C00228,New,5
+C00229,At Risk,5
+C00230,Champions,5
+C00231,Lapsed,4
+C00232,Loyal,4
+C00233,Lapsed,1
+C00234,At Risk,4
+C00235,Champions,4
+C00236,Lapsed,4
+C00237,Developing,5
+C00238,Developing,5
+C00239,Champions,5
+C00241,Champions,5
+C00242,Loyal,5
+C00243,Developing,5
+C00244,Developing,3
+C00245,Lapsed,3
+C00246,Champions,5
+C00247,Loyal,5
+C00248,Champions,5
+C00249,Developing,4
+C00250,Lapsed,1
+C00251,At Risk,5
+C00252,Champions,5
+C00253,Developing,5
+C00254,Lapsed,5
+C00255,Developing,4
+C00256,At Risk,5
+C00257,Champions,5
+C00258,Champions,5
+C00259,Developing,5
+C00260,Champions,5
+C00261,Lapsed,4
+C00262,New,5
+C00263,At Risk,4
+C00264,Champions,5
+C00266,Lapsed,5
+C00267,Developing,5
+C00268,Lapsed,5
+C00269,Developing,4
+C00270,New,5
+C00271,Lapsed,5
+C00272,Lapsed,4
+C00273,Developing,5
+C00274,At Risk,5
+C00275,Developing,2
+C00276,Champions,5
+C00277,Lapsed,4
+C00278,Lapsed,5
+C00279,At Risk,4
+C00280,Developing,5
+C00281,Champions,5
+C00282,Developing,5
+C00283,Lapsed,5
+C00284,Lapsed,4
+C00285,Champions,5
+C00286,Champions,5
+C00287,New,4
+C00288,At Risk,5
+C00289,Champions,5
+C00290,Loyal,5
+C00291,Developing,5
+C00292,Lapsed,5
+C00293,Developing,5
+C00294,New,5
+C00295,Champions,5
+C00296,Loyal,5
+C00297,New,4
+C00298,Lapsed,4
+C00299,Developing,4
+C00300,Champions,5
+C00301,Developing,4
+C00302,Champions,5
+C00304,Lapsed,4
+C00305,Loyal,5
+C00306,Developing,4
+C00307,Lapsed,3
+C00308,Loyal,4
+C00309,Lapsed,3
+C00310,Lapsed,5
+C00311,Loyal,5
+C00312,Champions,5
+C00313,Lapsed,4
+C00314,Champions,5
+C00315,Developing,5
+C00316,Lapsed,5
+C00318,Developing,5
+C00319,Lapsed,2
+C00320,Loyal,5
+C00321,At Risk,5
+C00322,Champions,4
+C00323,New,1
+C00324,Lapsed,5
+C00325,Champions,5
+C00326,Lapsed,4
+C00327,Champions,5
+C00328,Developing,4
+C00329,Developing,3
+C00330,At Risk,5
+C00331,Loyal,5
+C00332,Lapsed,5
+C00333,Developing,5
+C00334,Lapsed,5
+C00335,Developing,5
+C00336,At Risk,5
+C00337,Developing,5
+C00338,Champions,5
+C00339,Developing,5
+C00341,Loyal,5
+C00342,Loyal,5
+C00343,Champions,5
+C00344,Developing,5
+C00345,Champions,5
+C00346,Champions,5
+C00347,New,2
+C00348,Champions,5
+C00349,At Risk,4
+C00350,Champions,5
+C00351,Lapsed,5
+C00352,Lapsed,4
+C00353,Champions,5
+C00354,Loyal,5
+C00355,Champions,4
+C00357,Loyal,5
+C00358,At Risk,5
+C00359,Loyal,5
+C00360,Developing,5
+C00361,Lapsed,4
+C00362,Developing,4
+C00363,At Risk,4
+C00364,Loyal,5
+C00365,At Risk,4
+C00366,Developing,3
+C00367,Lapsed,5
+C00368,At Risk,5
+C00369,Developing,5
+C00370,Champions,5
+C00371,Developing,5
+C00372,New,5
+C00373,Loyal,5
+C00374,At Risk,5
+C00375,At Risk,5
+C00376,Lapsed,4
+C00377,Loyal,5
+C00378,Developing,5
+C00379,Developing,5
+C00380,Champions,5
+C00381,Lapsed,3
+C00382,Developing,5
+C00383,Developing,5
+C00384,Lapsed,4
+C00385,Champions,5
+C00386,At Risk,5
+C00387,Champions,5
+C00388,Lapsed,5
+C00389,Champions,5
+C00390,New,3
+C00391,At Risk,4
+C00392,Champions,5
+C00393,Champions,5
+C00394,Lapsed,5
+C00395,Loyal,5
+C00396,Lapsed,4
+C00397,Loyal,5
+C00398,At Risk,5
+C00399,Loyal,5
+C00400,Lapsed,2
+C00401,New,5
+C00402,Lapsed,1
+C00403,Lapsed,5
+C00404,Champions,5
+C00405,Lapsed,3
+C00406,Lapsed,4
+C00407,At Risk,5
+C00408,Lapsed,4
+C00409,Loyal,4
+C00410,Developing,5
+C00411,Lapsed,4
+C00412,Champions,5
+C00413,Lapsed,4
+C00414,Lapsed,5
+C00415,Lapsed,4
+C00416,Lapsed,5
+C00417,Developing,5
+C00418,Champions,5
+C00419,Developing,5
+C00420,Developing,5
+C00421,Lapsed,4
+C00422,Lapsed,2
+C00423,Lapsed,4
+C00424,Champions,5
+C00425,At Risk,5
+C00426,Champions,5
+C00427,Lapsed,4
+C00428,At Risk,5
+C00429,Lapsed,2
+C00430,New,4
+C00431,New,5
+C00432,Loyal,5
+C00433,Champions,4
+C00434,Champions,4
+C00435,Developing,5
+C00436,Developing,3
+C00437,Loyal,5
+C00438,Champions,5
+C00439,Loyal,5
+C00440,Lapsed,4
+C00441,Lapsed,4
+C00442,At Risk,5
+C00443,Lapsed,4
+C00445,Lapsed,5
+C00446,Champions,5
+C00447,New,4
+C00448,Loyal,5
+C00449,Lapsed,3
+C00450,Champions,5
+C00451,Loyal,5
+C00452,Loyal,5
+C00453,Lapsed,4
+C00454,Lapsed,4
+C00455,Lapsed,5
+C00456,Lapsed,4
+C00457,Developing,5
+C00458,Developing,2
+C00459,Lapsed,5
+C00460,At Risk,5
+C00461,At Risk,5
+C00462,Champions,5
+C00463,Developing,5
+C00464,Champions,5
+C00465,Champions,5
+C00466,New,5
+C00467,Lapsed,5
+C00468,Lapsed,5
+C00469,Champions,5
+C00470,Lapsed,5
+C00471,At Risk,4
+C00472,Champions,5
+C00473,At Risk,5
+C00474,Loyal,5
+C00475,Loyal,5
+C00476,At Risk,4
+C00477,Developing,3
+C00478,Developing,5
+C00479,New,4
+C00480,Developing,4
+C00481,Lapsed,4
+C00482,At Risk,5
+C00483,New,5
+C00485,New,3
+C00486,Lapsed,4
+C00487,Developing,1
+C00488,Lapsed,4
+C00489,Developing,5
+C00490,At Risk,5
+C00491,At Risk,5
+C00492,At Risk,4
+C00493,Loyal,5
+C00494,At Risk,5
+C00495,At Risk,5
+C00496,Loyal,5
+C00497,Developing,3
+C00498,Champions,5
+C00499,Developing,5
+C00500,Lapsed,4
+C00501,Lapsed,3
+C00502,Champions,5
+C00503,Developing,5
+C00504,Developing,5
+C00505,Loyal,5
+C00506,Developing,5
+C00507,Loyal,5
+C00508,Lapsed,3
+C00509,Loyal,5
+C00510,At Risk,5
+C00511,Champions,5
+C00512,Lapsed,5
+C00513,Lapsed,4
+C00514,Lapsed,4
+C00515,Champions,5
+C00516,Lapsed,5
+C00517,Lapsed,3
+C00518,New,4
+C00519,Lapsed,5
+C00520,New,3
+C00521,At Risk,5
+C00522,Champions,5
+C00523,New,3
+C00524,Developing,5
+C00525,Developing,5
+C00526,Champions,5
+C00527,New,1
+C00528,At Risk,5
+C00529,Champions,5
+C00530,Lapsed,3
+C00531,Champions,5
+C00532,Champions,5
+C00533,Loyal,5
+C00534,Champions,5
+C00535,Champions,5
+C00536,Lapsed,5
+C00537,Developing,5
+C00538,Loyal,5
+C00539,At Risk,5
+C00540,New,4
+C00541,Lapsed,3
+C00542,Lapsed,3
+C00543,Loyal,5
+C00545,Lapsed,3
+C00546,Champions,4
+C00547,New,5
+C00548,Developing,5
+C00549,New,3
+C00550,Champions,5
+C00551,New,2
+C00552,Champions,5
+C00553,Lapsed,4
+C00554,Champions,5
+C00555,Champions,5
+C00556,Lapsed,4
+C00557,Champions,4
+C00558,Lapsed,4
+C00559,Champions,5
+C00560,Loyal,5
+C00561,Champions,5
+C00562,Developing,5
+C00563,New,1
+C00564,Loyal,5
+C00565,Lapsed,4
+C00566,Lapsed,5
+C00567,Lapsed,2
+C00568,Loyal,5
+C00569,Lapsed,1
+C00570,At Risk,5
+C00571,Developing,4
+C00572,Loyal,5
+C00573,Developing,5
+C00574,Loyal,5
+C00575,At Risk,5
+C00576,At Risk,5
+C00577,New,3
+C00578,Developing,4
+C00579,Champions,5
+C00580,Developing,1
+C00581,Developing,5
+C00582,Lapsed,3
+C00583,Loyal,5
+C00584,Champions,4
+C00585,New,4
+C00586,Lapsed,3
+C00587,At Risk,5
+C00588,Lapsed,3
+C00589,Lapsed,5
+C00590,New,2
+C00591,New,3
+C00592,Developing,5
+C00593,Lapsed,5
+C00594,At Risk,3
+C00595,Lapsed,4
+C00596,Lapsed,5
+C00597,At Risk,4
+C00598,Developing,5
+C00599,Lapsed,5
+C00600,Lapsed,2
+C00601,Lapsed,5
+C00602,Developing,3
+C00603,Lapsed,3
+C00604,Champions,5
+C00605,At Risk,5
+C00606,Developing,5
+C00607,Champions,5
+C00608,Developing,5
+C00609,Lapsed,4
+C00610,Champions,4
+C00611,Loyal,5
+C00612,Loyal,5
+C00613,At Risk,5
+C00614,New,4
+C00615,At Risk,5
+C00616,Lapsed,5
+C00617,Champions,5
+C00618,New,5
+C00619,Loyal,5
+C00620,Lapsed,5
+C00621,Champions,5
+C00622,Champions,5
+C00623,Developing,4
+C00624,Developing,5
+C00626,Lapsed,3
+C00627,New,5
+C00628,New,4
+C00629,Developing,4
+C00630,Champions,5
+C00631,Champions,5
+C00632,Loyal,5
+C00633,Developing,3
+C00634,Lapsed,4
+C00635,Lapsed,5
+C00636,Developing,5
+C00637,New,4
+C00638,Champions,5
+C00639,Champions,5
+C00640,Champions,5
+C00641,Lapsed,3
+C00642,Lapsed,3
+C00643,Developing,4
+C00644,Champions,4
+C00645,Loyal,5
+C00646,New,3
+C00647,Champions,5
+C00648,At Risk,5
+C00649,New,3
+C00650,New,3
+C00651,Lapsed,5
+C00652,Developing,5
+C00653,Champions,4
+C00654,New,5
+C00655,Developing,4
+C00656,Lapsed,4
+C00657,Developing,5
+C00658,Developing,5
+C00659,Developing,4
+C00660,New,3
+C00661,New,4
+C00662,Lapsed,3
+C00663,New,4
+C00664,Loyal,5
+C00665,New,5
+C00666,At Risk,4
+C00667,Developing,1
+C00668,New,5
+C00669,Lapsed,4
+C00670,Lapsed,5
+C00671,Champions,5
+C00672,At Risk,5
+C00673,Lapsed,4
+C00674,Champions,5
+C00675,At Risk,5
+C00676,At Risk,5
+C00677,Loyal,5
+C00678,Developing,4
+C00679,Developing,5
+C00680,Lapsed,5
+C00681,Developing,5
+C00682,Developing,5
+C00683,At Risk,4
+C00684,At Risk,5
+C00685,At Risk,5
+C00686,Champions,5
+C00687,Loyal,5
+C00688,Developing,5
+C00689,Lapsed,5
+C00690,At Risk,4
+C00691,Champions,4
+C00692,Champions,5
+C00695,At Risk,5
+C00696,Lapsed,5
+C00698,Lapsed,4
+C00699,Lapsed,4
+C00700,Loyal,5
+C00701,Lapsed,4
+C00702,Developing,4
+C00703,Lapsed,4
+C00704,Lapsed,3
+C00705,Champions,5
+C00706,Developing,5
+C00707,Loyal,5
+C00708,At Risk,5
+C00709,Champions,5
+C00710,Loyal,5
+C00711,New,4
+C00712,Champions,5
+C00713,Lapsed,3
+C00714,Lapsed,4
+C00715,Champions,5
+C00717,Champions,5
+C00718,New,1
+C00719,New,3
+C00720,Champions,5
+C00721,Developing,3
+C00722,Lapsed,4
+C00724,Lapsed,5
+C00725,At Risk,5
+C00726,New,5
+C00727,Champions,5
+C00728,New,5
+C00729,Developing,3
+C00730,Developing,5
+C00731,Champions,5
+C00732,New,5
+C00733,At Risk,4
+C00734,Champions,5
+C00735,New,5
+C00736,Lapsed,5
+C00737,Loyal,5
+C00738,Lapsed,4
+C00739,At Risk,4
+C00740,Loyal,5
+C00741,Lapsed,4
+C00742,New,5
+C00743,Lapsed,1
+C00744,Lapsed,2
+C00745,At Risk,5
+C00746,Lapsed,4
+C00747,At Risk,5
+C00748,Developing,5
+C00749,At Risk,5
+C00750,Lapsed,3
+C00751,Lapsed,4
+C00752,Lapsed,3
+C00753,Lapsed,2
+C00754,Developing,4
+C00755,Lapsed,4
+C00756,Developing,4
+C00757,Champions,4
+C00758,Loyal,5
+C00759,Loyal,5
+C00760,Champions,5
+C00761,Champions,5
+C00762,Lapsed,5
+C00763,Lapsed,4
+C00764,Developing,2
+C00765,Lapsed,4
+C00766,At Risk,5
+C00767,Champions,5
+C00768,Developing,5
+C00769,New,3
+C00770,New,4
+C00771,Lapsed,5
+C00772,At Risk,5
+C00773,Loyal,5
+C00774,Champions,5
+C00775,Champions,5
+C00776,Loyal,5
+C00777,Loyal,5
+C00778,Developing,3
+C00779,New,4
+C00780,Champions,5
+C00781,Developing,4
+C00782,Developing,2
+C00783,Lapsed,4
+C00784,Champions,5
+C00785,Developing,4
+C00786,Lapsed,3
+C00787,Developing,5
+C00788,Lapsed,4
+C00789,Loyal,5
+C00790,Developing,4
+C00791,Lapsed,5
+C00792,Champions,5
+C00793,Champions,5
+C00794,Lapsed,2
+C00795,Lapsed,4
+C00796,Lapsed,4
+C00797,Developing,5
+C00798,Champions,5
+C00799,Developing,5
+C00800,Loyal,5
+C00801,Developing,4
+C00802,Champions,4
+C00803,Loyal,5
+C00804,Lapsed,5
+C00805,New,4
+C00806,Champions,5
+C00807,Lapsed,5
+C00808,Champions,5
+C00809,At Risk,4
+C00810,Developing,5
+C00811,New,2
+C00812,Loyal,5
+C00813,Champions,5
+C00814,At Risk,4
+C00815,At Risk,5
+C00816,Loyal,5
+C00817,At Risk,5
+C00818,Developing,4
+C00819,At Risk,4
+C00820,At Risk,5
+C00821,New,4
+C00822,At Risk,5
+C00823,Loyal,5
+C00824,Champions,5
+C00825,Lapsed,2
+C00826,Developing,4
+C00828,Lapsed,5
+C00829,Lapsed,1
+C00830,New,4
+C00831,Developing,5
+C00832,Lapsed,3
+C00833,Lapsed,3
+C00834,Lapsed,4
+C00835,New,5
+C00836,Developing,5
+C00837,Lapsed,2
+C00838,At Risk,5
+C00839,Champions,5
+C00840,Developing,5
+C00841,New,5
+C00842,Lapsed,5
+C00843,Loyal,5
+C00844,Lapsed,4
+C00845,At Risk,4
+C00846,Developing,4
+C00847,Lapsed,3
+C00848,Champions,5
+C00849,Lapsed,3
+C00850,Champions,5
+C00851,Developing,5
+C00852,Champions,5
+C00854,Developing,5
+C00855,At Risk,5
+C00856,Champions,5
+C00857,Developing,3
+C00858,Developing,5
+C00859,Developing,5
+C00860,Lapsed,1
+C00861,Lapsed,3
+C00862,Lapsed,5
+C00863,At Risk,4
+C00864,At Risk,5
+C00865,Lapsed,5
+C00866,At Risk,5
+C00867,Developing,4
+C00868,Champions,5
+C00869,Lapsed,5
+C00870,Lapsed,4
+C00871,New,4
+C00872,Lapsed,4
+C00873,New,3
+C00874,Loyal,5
+C00875,Loyal,5
+C00876,New,5
+C00877,At Risk,4
+C00878,Champions,5
+C00879,Lapsed,3
+C00881,At Risk,5
+C00882,Lapsed,3
+C00883,Lapsed,3
+C00884,Champions,5
+C00885,Lapsed,4
+C00886,Lapsed,3
+C00887,Champions,4
+C00888,Lapsed,5
+C00889,At Risk,5
+C00890,Champions,4
+C00891,Loyal,5
+C00892,Lapsed,3
+C00893,Lapsed,5
+C00894,Champions,5
+C00895,Champions,5
+C00896,Champions,5
+C00897,Lapsed,3
+C00898,Developing,4
+C00899,Champions,5
+C00900,Lapsed,3
+C00901,Developing,5
+C00902,Lapsed,2
+C00903,Developing,5
+C00904,Lapsed,3
+C00905,Lapsed,2
+C00906,At Risk,3
+C00907,New,2
+C00908,New,1
+C00909,At Risk,5
+C00910,Champions,5
+C00911,Developing,5
+C00912,Champions,5
+C00913,At Risk,5
+C00914,Champions,5
+C00915,Champions,5
+C00916,Champions,5
+C00917,Champions,5
+C00918,Champions,5
+C00919,Champions,5
+C00920,New,1
+C00921,Loyal,5
+C00922,At Risk,5
+C00923,At Risk,5
+C00924,Developing,4
+C00925,Champions,5
+C00926,Developing,5
+C00927,Champions,5
+C00928,Champions,5
+C00929,Loyal,5
+C00930,Developing,5
+C00931,At Risk,5
+C00932,Champions,4
+C00933,At Risk,5
+C00934,New,5
+C00935,New,5
+C00936,Lapsed,5
+C00937,Developing,5
+C00938,Champions,5
+C00939,Champions,5
+C00940,Developing,5
+C00941,Loyal,4
+C00942,At Risk,4
+C00943,Lapsed,5
+C00944,Loyal,5
+C00945,Developing,5
+C00946,Lapsed,5
+C00947,Champions,4
+C00948,Loyal,4
+C00949,Lapsed,4
+C00950,New,3
+C00951,At Risk,5
+C00952,At Risk,4
+C00953,Lapsed,5
+C00954,Lapsed,5
+C00955,Champions,5
+C00956,Developing,4
+C00957,New,1
+C00958,At Risk,5
+C00959,At Risk,5
+C00960,Lapsed,5
+C00961,New,4
+C00962,At Risk,5
+C00963,Developing,4
+C00964,Developing,5
+C00965,Loyal,5
+C00966,Lapsed,2
+C00967,Champions,5
+C00968,Loyal,5
+C00969,Developing,5
+C00970,Champions,5
+C00971,Developing,5
+C00972,Developing,5
+C00973,Developing,5
+C00974,Champions,5
+C00975,Lapsed,3
+C00976,Developing,2
+C00977,New,3
+C00978,Champions,5
+C00979,Champions,5
+C00980,At Risk,5
+C00981,Champions,5
+C00982,Lapsed,4
+C00983,Champions,5
+C00984,Lapsed,4
+C00985,Developing,5
+C00986,Developing,4
+C00987,New,4
+C00988,New,3
+C00989,At Risk,5
+C00990,Lapsed,4
+C00991,Developing,4
+C00992,New,5
+C00993,At Risk,5
+C00994,Developing,5
+C00995,Loyal,5
+C00996,Champions,5
+C00997,Champions,5
+C00998,New,4
+C00999,New,4
+C01000,Lapsed,4
+C01001,At Risk,5
+C01003,Developing,3
+C01004,Lapsed,5
+C01005,Lapsed,2
+C01006,New,3
+C01007,Lapsed,4
+C01008,Lapsed,5
+C01009,Lapsed,4
+C01010,At Risk,5
+C01011,Developing,5
+C01012,Developing,5
+C01013,At Risk,5
+C01014,Developing,5
+C01015,Lapsed,3
+C01016,Loyal,5
+C01017,At Risk,5
+C01019,Developing,5
+C01020,At Risk,4
+C01021,At Risk,5
+C01022,At Risk,4
+C01023,Champions,5
+C01024,Champions,5
+C01025,Loyal,5
+C01026,New,3
+C01027,Lapsed,5
+C01028,Developing,5
+C01029,At Risk,5
+C01030,Lapsed,3
+C01031,Loyal,5
+C01032,Lapsed,4
+C01033,At Risk,3
+C01034,Lapsed,3
+C01035,Lapsed,4
+C01036,Developing,5
+C01037,Developing,5
+C01038,New,3
+C01039,Developing,5
+C01040,Lapsed,4
+C01041,Loyal,5
+C01042,Lapsed,5
+C01044,New,5
+C01045,Champions,5
+C01046,Champions,5
+C01047,Lapsed,4
+C01048,Lapsed,5
+C01049,Lapsed,4
+C01050,Developing,4
+C01051,Champions,4
+C01052,Lapsed,4
+C01053,Champions,4
+C01054,Champions,5
+C01055,Lapsed,4
+C01056,Lapsed,5
+C01057,Developing,5
+C01058,Champions,5
+C01059,Developing,5
+C01060,At Risk,5
+C01061,Loyal,5
+C01062,Loyal,5
+C01063,Loyal,5
+C01064,Developing,4
+C01065,Loyal,4
+C01066,Champions,4
+C01067,Lapsed,5
+C01068,Lapsed,2
+C01069,At Risk,5
+C01070,Lapsed,3
+C01071,At Risk,3
+C01072,New,1
+C01073,New,4
+C01074,Lapsed,5
+C01075,Developing,4
+C01076,At Risk,5
+C01077,Champions,5
+C01078,Lapsed,5
+C01079,Developing,5
+C01080,Champions,5
+C01081,Loyal,5
+C01082,Lapsed,3
+C01083,Developing,5
+C01084,Lapsed,5
+C01085,Lapsed,5
+C01086,Developing,4
+C01087,Lapsed,4
+C01088,Developing,5
+C01089,Champions,5
+C01090,Lapsed,5
+C01091,Champions,5
+C01092,Lapsed,1
+C01093,Champions,5
+C01094,Champions,5
+C01095,Champions,5
+C01096,Champions,5
+C01097,Champions,5
+C01098,Developing,4
+C01099,Lapsed,3
+C01100,Loyal,5
+C01101,Loyal,5
+C01102,At Risk,5
+C01103,Champions,5
+C01104,Lapsed,4
+C01105,Champions,5
+C01106,Developing,4
+C01107,Developing,5
+C01108,New,4
+C01109,Lapsed,5
+C01110,New,3
+C01111,Lapsed,2
+C01112,At Risk,5
+C01113,Lapsed,4
+C01114,Loyal,5
+C01115,Champions,5
+C01116,Developing,5
+C01117,Champions,5
+C01118,Developing,5
+C01119,New,1
+C01120,Developing,5
+C01121,Lapsed,4
+C01122,Developing,5
+C01123,At Risk,5
+C01124,Champions,5
+C01125,Champions,5
+C01126,Developing,5
+C01127,At Risk,5
+C01128,New,4
+C01129,Lapsed,4
+C01130,Lapsed,4
+C01131,Lapsed,3
+C01132,Champions,5
+C01133,Lapsed,5
+C01134,Developing,4
+C01135,Developing,3
+C01136,Champions,5
+C01137,Loyal,5
+C01138,At Risk,5
+C01139,At Risk,4
+C01140,New,5
+C01141,Developing,5
+C01142,Champions,4
+C01143,Lapsed,3
+C01144,Lapsed,5
+C01145,At Risk,5
+C01146,New,5
+C01147,At Risk,5
+C01148,New,5
+C01149,Champions,5
+C01150,Lapsed,4
+C01151,Developing,5
+C01152,Champions,5
+C01153,Developing,3
+C01154,Developing,5
+C01155,At Risk,5
+C01156,New,5
+C01157,Lapsed,2
+C01158,Lapsed,4
+C01159,New,3
+C01160,Lapsed,5
+C01161,Developing,5
+C01162,Developing,4
+C01163,Champions,5
+C01164,New,3
+C01165,Lapsed,4
+C01166,Developing,5
+C01167,New,2
+C01168,Champions,5
+C01169,Lapsed,5
+C01170,Lapsed,4
+C01171,Lapsed,3
+C01172,New,5
+C01173,Developing,4
+C01174,Champions,5
+C01175,At Risk,5
+C01176,At Risk,5
+C01177,At Risk,5
+C01178,Developing,4
+C01179,At Risk,5
+C01180,Lapsed,2
+C01181,Champions,5
+C01182,Loyal,5
+C01183,Developing,5
+C01185,Lapsed,3
+C01186,New,4
+C01187,Developing,5
+C01188,New,4
+C01189,New,3
+C01190,Loyal,4
+C01191,Developing,1
+C01192,Champions,5
+C01193,Lapsed,5
+C01194,Developing,5
+C01195,Champions,5
+C01196,Champions,5
+C01197,Champions,5
+C01198,Developing,5
+C01199,At Risk,5
+C01200,At Risk,4
+C01201,New,5
+C01202,Developing,5
+C01203,Champions,5
+C01204,Champions,5
+C01205,At Risk,5
+C01206,New,4
+C01207,Lapsed,4
+C01208,Lapsed,5
+C01209,Lapsed,4
+C01210,Champions,4
+C01211,Champions,5
+C01212,New,5
+C01213,Loyal,5
+C01214,Lapsed,2
+C01215,Champions,5
+C01216,Lapsed,5
+C01217,Developing,4
+C01218,At Risk,4
+C01219,Developing,4
+C01220,Lapsed,4
+C01221,At Risk,4
+C01222,Developing,4
+C01223,Champions,5
+C01224,Lapsed,4
+C01225,Developing,5
+C01226,At Risk,5
+C01227,New,3
+C01228,Lapsed,5
+C01229,Champions,5
+C01230,Lapsed,5
+C01231,Lapsed,3
+C01232,At Risk,5
+C01233,Developing,5
+C01234,Lapsed,4
+C01235,Champions,5
+C01236,Developing,3
+C01237,New,4
+C01239,Lapsed,3
+C01240,Developing,5
+C01241,Loyal,5
+C01242,At Risk,5
+C01243,Developing,5
+C01244,Lapsed,5
+C01245,Developing,5
+C01246,New,5
+C01247,Champions,5
+C01248,New,3
+C01249,Champions,5
+C01250,Developing,5
+C01251,Champions,5
+C01252,Developing,4
+C01253,Lapsed,3
+C01254,Lapsed,4
+C01255,At Risk,5
+C01256,Champions,5
+C01257,Champions,5
+C01258,Developing,3
+C01259,Lapsed,5
+C01260,At Risk,5
+C01261,Champions,5
+C01262,Developing,2
+C01263,Lapsed,5
+C01264,Lapsed,4
+C01265,Lapsed,4
+C01266,Developing,5
+C01267,Champions,5
+C01268,New,3
+C01269,Champions,5
+C01271,Lapsed,2
+C01272,Loyal,5
+C01273,Lapsed,4
+C01274,Loyal,5
+C01275,Developing,5
+C01276,Champions,5
+C01277,Developing,4
+C01278,Developing,4
+C01279,Lapsed,4
+C01280,New,4
+C01281,Champions,5
+C01282,Loyal,5
+C01283,Lapsed,5
+C01284,At Risk,5
+C01285,New,3
+C01286,Lapsed,5
+C01287,Lapsed,5
+C01288,Developing,3
+C01289,At Risk,5
+C01290,Developing,5
+C01291,Lapsed,3
+C01292,Loyal,4
+C01293,Lapsed,5
+C01294,Developing,5
+C01295,Lapsed,3
+C01296,Developing,4
+C01297,Lapsed,2
+C01298,Developing,5
+C01299,Developing,4
+C01300,Developing,4
+C01301,Developing,5
+C01302,Developing,5
+C01303,At Risk,4
+C01304,At Risk,5
+C01305,Loyal,5
+C01306,Champions,5
+C01307,New,4
+C01309,Champions,5
+C01310,Developing,5
+C01311,At Risk,5
+C01312,At Risk,5
+C01313,Champions,5
+C01314,Lapsed,4
+C01315,Lapsed,4
+C01316,New,3
+C01317,Champions,5
+C01318,Lapsed,4
+C01319,Lapsed,4
+C01320,Developing,5
+C01321,Champions,4
+C01322,Loyal,5
+C01323,Champions,5
+C01324,Champions,5
+C01325,Developing,5
+C01326,Developing,5
+C01327,Developing,5
+C01328,Loyal,5
+C01329,Lapsed,4
+C01330,Lapsed,3
+C01331,At Risk,4
+C01332,Loyal,5
+C01333,Developing,5
+C01334,Developing,5
+C01335,Developing,4
+C01336,Champions,5
+C01337,Lapsed,5
+C01338,Lapsed,5
+C01339,New,4
+C01340,Loyal,5
+C01341,Champions,5
+C01342,Lapsed,5
+C01343,New,4
+C01344,At Risk,5
+C01345,Developing,5
+C01346,Champions,4
+C01347,Lapsed,3
+C01348,New,5
+C01349,Lapsed,3
+C01350,Champions,5
+C01351,New,2
+C01352,Developing,5
+C01353,Lapsed,3
+C01354,Developing,5
+C01355,Champions,5
+C01356,Loyal,5
+C01357,Champions,5
+C01359,Developing,5
+C01360,Developing,5
+C01361,Lapsed,5
+C01362,Lapsed,5
+C01363,Lapsed,5
+C01364,Lapsed,4
+C01365,Loyal,5
+C01366,Lapsed,4
+C01367,Developing,4
+C01368,Loyal,5
+C01369,Lapsed,4
+C01370,Lapsed,4
+C01371,Champions,4
+C01372,Lapsed,3
+C01373,Champions,5
+C01374,New,3
+C01375,Lapsed,2
+C01376,Lapsed,5
+C01377,Lapsed,1
+C01378,Lapsed,4
+C01379,Champions,5
+C01380,Champions,5
+C01381,Developing,4
+C01382,Lapsed,4
+C01383,Lapsed,4
+C01384,New,3
+C01385,New,4
+C01386,Champions,5
+C01387,Lapsed,2
+C01388,Lapsed,4
+C01389,Champions,4
+C01390,Champions,5
+C01391,Champions,5
+C01392,New,5
+C01393,Lapsed,4
+C01394,Champions,5
+C01395,Developing,5
+C01396,Lapsed,4
+C01397,Lapsed,5
+C01398,At Risk,5
+C01399,Champions,5
+C01400,Lapsed,5
+C01401,Champions,5
+C01402,Loyal,5
+C01403,Developing,5
+C01404,At Risk,5
+C01405,New,5
+C01407,Champions,5
+C01408,Lapsed,1
+C01409,New,1
+C01410,New,4
+C01411,Developing,5
+C01412,Lapsed,4
+C01413,New,5
+C01414,Lapsed,3
+C01415,Loyal,5
+C01416,Loyal,5
+C01417,New,4
+C01418,Loyal,5
+C01419,Champions,5
+C01420,New,1
+C01421,At Risk,5
+C01422,New,3
+C01423,At Risk,5
+C01424,Lapsed,4
+C01425,Loyal,5
+C01426,Developing,4
+C01427,Lapsed,4
+C01428,Champions,5
+C01429,New,1
+C01430,New,4
+C01431,Loyal,5
+C01432,Lapsed,5
+C01433,Lapsed,4
+C01434,Lapsed,4
+C01435,Lapsed,5
+C01436,Champions,5
+C01437,Champions,5
+C01438,Lapsed,4
+C01439,Lapsed,3
+C01440,At Risk,5
+C01441,New,4
+C01442,Champions,5
+C01443,New,3
+C01444,Developing,4
+C01445,New,4
+C01446,At Risk,5
+C01448,Champions,5
+C01449,Developing,5
+C01450,Lapsed,3
+C01451,Champions,5
+C01452,Developing,3
+C01453,Lapsed,3
+C01454,Lapsed,4
+C01455,At Risk,5
+C01456,Developing,4
+C01457,Lapsed,5
+C01458,At Risk,5
+C01459,Developing,5
+C01460,Lapsed,5
+C01461,At Risk,5
+C01462,Loyal,5
+C01463,At Risk,5
+C01464,Champions,5
+C01465,At Risk,5
+C01466,Developing,4
+C01467,Developing,1
+C01468,At Risk,5
+C01469,Loyal,5
+C01470,At Risk,5
+C01471,New,4
+C01472,Loyal,5
+C01473,New,5
+C01474,Champions,5
+C01475,Loyal,5
+C01476,Lapsed,5
+C01477,At Risk,5
+C01478,Champions,5
+C01479,New,5
+C01480,New,3
+C01481,Lapsed,1
+C01482,Developing,5
+C01483,Lapsed,5
+C01484,Lapsed,2
+C01487,Developing,4
+C01488,Developing,5
+C01489,At Risk,5
+C01490,Developing,5
+C01491,Developing,4
+C01493,New,5
+C01494,Lapsed,3
+C01495,New,1
+C01496,Developing,4
+C01497,Developing,5
+C01498,Champions,5
+C01499,At Risk,5
+C01500,Champions,5
+C01501,Developing,3
+C01502,Lapsed,4
+C01503,Champions,5
+C01505,New,5
+C01506,Champions,5
+C01507,Developing,5
+C01508,Champions,5
+C01509,Champions,5
+C01510,Lapsed,4
+C01511,Loyal,5
+C01512,Champions,5
+C01513,Lapsed,5
+C01514,Developing,5
+C01515,At Risk,5
+C01516,Champions,4
+C01517,Lapsed,4
+C01518,Loyal,5
+C01519,Lapsed,5
+C01520,Champions,5
+C01521,Lapsed,2
+C01522,Champions,5
+C01523,Champions,5
+C01524,Lapsed,4
+C01525,Champions,5
+C01526,New,1
+C01527,New,4
+C01528,Developing,4
+C01529,At Risk,5
+C01530,At Risk,5
+C01531,Loyal,5
+C01532,Lapsed,2
+C01533,Champions,4
+C01534,New,4
+C01535,Developing,4
+C01536,Champions,5
+C01537,Developing,5
+C01538,Lapsed,5
+C01539,At Risk,5
+C01540,At Risk,5
+C01541,Champions,5
+C01542,At Risk,5
+C01543,Champions,5
+C01544,Developing,5
+C01545,Loyal,5
+C01546,Lapsed,5
+C01547,Champions,5
+C01548,Developing,3
+C01549,Developing,3
+C01550,Champions,5
+C01551,At Risk,5
+C01552,At Risk,5
+C01553,At Risk,5
+C01554,Loyal,5
+C01555,Lapsed,4
+C01556,Lapsed,3
+C01557,Developing,5
+C01558,Lapsed,4
+C01559,Loyal,5
+C01560,Developing,5
+C01561,Developing,4
+C01562,Developing,5
+C01563,At Risk,5
+C01564,Loyal,5
+C01565,Developing,5
+C01566,New,2
+C01567,Loyal,5
+C01568,Developing,4
+C01569,Developing,5
+C01570,Loyal,5
+C01571,Champions,5
+C01572,Developing,5
+C01573,Loyal,5
+C01574,Developing,5
+C01575,New,5
+C01576,Champions,5
+C01577,New,4
+C01578,Champions,5
+C01579,At Risk,5
+C01580,Loyal,5
+C01581,Champions,5
+C01582,At Risk,5
+C01583,Champions,5
+C01584,Loyal,5
+C01585,New,1
+C01586,Developing,3
+C01587,At Risk,5
+C01588,Developing,2
+C01589,Developing,4
+C01591,Champions,5
+C01593,At Risk,5
+C01594,Lapsed,5
+C01595,Developing,4
+C01596,Loyal,5
+C01597,Champions,5
+C01598,Champions,5
+C01599,New,3
+C01600,Developing,5
+C01601,Champions,5
+C01602,Developing,5
+C01603,Champions,5
+C01604,At Risk,5
+C01605,Champions,5
+C01606,Champions,5
+C01607,Champions,5
+C01608,Loyal,5
+C01610,At Risk,5
+C01611,Loyal,5
+C01612,Champions,5
+C01613,Developing,1
+C01614,At Risk,5
+C01615,Developing,5
+C01616,Champions,5
+C01617,Lapsed,4
+C01618,Loyal,4
+C01619,Champions,5
+C01620,Champions,5
+C01621,Lapsed,3
+C01622,At Risk,5
+C01623,Lapsed,5
+C01624,Loyal,5
+C01625,Champions,5
+C01626,Champions,4
+C01627,At Risk,5
+C01628,New,4
+C01629,Champions,5
+C01630,New,5
+C01631,Lapsed,5
+C01632,Lapsed,3
+C01633,Lapsed,1
+C01634,At Risk,5
+C01635,At Risk,5
+C01636,Champions,5
+C01637,At Risk,5
+C01638,New,4
+C01639,New,4
+C01640,New,5
+C01641,Champions,4
+C01642,Developing,5
+C01643,Lapsed,5
+C01644,New,5
+C01645,Champions,5
+C01646,New,3
+C01647,Champions,4
+C01648,New,2
+C01649,Developing,5
+C01650,Lapsed,5
+C01651,Champions,5
+C01652,Lapsed,5
+C01653,Champions,5
+C01654,New,3
+C01655,Champions,5
+C01656,Developing,5
+C01657,Champions,5
+C01658,Lapsed,5
+C01659,At Risk,5
+C01660,Champions,5
+C01661,Champions,5
+C01662,Developing,5
+C01663,Champions,5
+C01664,Loyal,3
+C01665,At Risk,5
+C01666,At Risk,5
+C01668,At Risk,5
+C01669,Loyal,5
+C01670,Champions,5
+C01671,New,5
+C01672,Lapsed,4
+C01673,At Risk,5
+C01674,Developing,4
+C01675,Loyal,4
+C01676,Developing,5
+C01677,New,3
+C01678,Loyal,5
+C01679,At Risk,5
+C01680,Champions,5
+C01681,Developing,5
+C01682,Champions,5
+C01683,Champions,5
+C01684,Lapsed,2
+C01685,Developing,5
+C01686,New,5
+C01687,Developing,4
+C01688,Developing,5
+C01689,Loyal,5
+C01690,Champions,5
+C01691,New,2
+C01692,Lapsed,3
+C01693,New,3
+C01694,Developing,5
+C01696,Lapsed,2
+C01697,At Risk,5
+C01698,Champions,5
+C01699,At Risk,5
+C01700,Developing,5
+C01701,Champions,5
+C01702,At Risk,5
+C01703,Loyal,5
+C01704,Lapsed,4
+C01705,Developing,5
+C01706,At Risk,5
+C01707,Developing,4
+C01708,Lapsed,4
+C01709,Champions,5
+C01710,Lapsed,3
+C01711,At Risk,5
+C01712,Lapsed,3
+C01713,Loyal,5
+C01714,New,4
+C01715,Lapsed,5
+C01716,At Risk,4
+C01717,Champions,5
+C01718,Champions,4
+C01719,Loyal,5
+C01720,Lapsed,3
+C01721,Loyal,5
+C01722,Developing,5
+C01724,Developing,5
+C01725,Developing,5
+C01726,Developing,2
+C01727,Lapsed,4
+C01728,At Risk,4
+C01729,Loyal,5
+C01730,Developing,5
+C01731,Loyal,5
+C01732,At Risk,5
+C01733,At Risk,4
+C01734,Champions,5
+C01735,Champions,5
+C01736,Lapsed,4
+C01737,Developing,4
+C01738,Champions,5
+C01739,Developing,4
+C01740,Lapsed,1
+C01741,New,3
+C01742,At Risk,5
+C01743,At Risk,4
+C01744,At Risk,4
+C01745,At Risk,4
+C01746,Lapsed,4
+C01747,Champions,5
+C01748,New,3
+C01749,New,4
+C01750,Developing,5
+C01751,Champions,5
+C01752,At Risk,3
+C01753,Developing,5
+C01754,At Risk,5
+C01755,Lapsed,4
+C01756,Loyal,5
+C01757,New,4
+C01758,Lapsed,4
+C01759,Lapsed,5
+C01760,Lapsed,3
+C01761,Developing,5
+C01762,At Risk,5
+C01763,Champions,5
+C01764,Developing,1
+C01765,Champions,5
+C01767,Champions,5
+C01768,Developing,5
+C01769,Lapsed,3
+C01770,New,3
+C01771,Lapsed,4
+C01772,Developing,4
+C01773,At Risk,5
+C01774,At Risk,5
+C01775,Champions,5
+C01776,Developing,5
+C01777,Developing,5
+C01778,Developing,4
+C01779,Developing,4
+C01780,Champions,4
+C01781,Champions,5
+C01782,Loyal,5
+C01783,Lapsed,4
+C01784,Champions,5
+C01785,New,2
+C01786,Developing,5
+C01787,New,4
+C01788,At Risk,4
+C01789,Developing,5
+C01790,Loyal,5
+C01791,Lapsed,5
+C01792,Lapsed,3
+C01793,At Risk,4
+C01794,Developing,5
+C01795,Champions,5
+C01796,At Risk,5
+C01797,Champions,5
+C01798,Lapsed,4
+C01799,Lapsed,3
+C01800,Loyal,5
+C01801,Loyal,4
+C01802,At Risk,5
+C01803,At Risk,4
+C01804,Lapsed,4
+C01805,Developing,5
+C01806,Champions,5
+C01807,Loyal,4
+C01808,Lapsed,5
+C01809,Champions,5
+C01810,Lapsed,2
+C01811,Loyal,5
+C01812,Lapsed,4
+C01813,At Risk,5
+C01814,Lapsed,1
+C01815,New,5
+C01816,Loyal,4
+C01817,Developing,5
+C01818,Lapsed,2
+C01819,Developing,2
+C01820,Lapsed,4
+C01821,Champions,5
+C01822,Champions,5
+C01823,Loyal,5
+C01824,Lapsed,5
+C01825,Developing,4
+C01826,Lapsed,2
+C01827,At Risk,5
+C01828,Loyal,5
+C01829,Champions,5
+C01830,Champions,5
+C01831,At Risk,5
+C01832,Developing,4
+C01833,At Risk,5
+C01834,Lapsed,4
+C01835,At Risk,5
+C01836,New,4
+C01837,Developing,2
+C01838,Champions,5
+C01839,Champions,5
+C01840,New,3
+C01841,At Risk,5
+C01842,Champions,5
+C01843,Lapsed,5
+C01844,Lapsed,3
+C01845,New,4
+C01846,At Risk,5
+C01847,Champions,5
+C01848,Developing,4
+C01849,Lapsed,5
+C01850,Developing,4
+C01851,At Risk,5
+C01852,Champions,5
+C01853,Lapsed,5
+C01854,New,2
+C01855,Developing,4
+C01857,Developing,5
+C01858,Lapsed,4
+C01859,Champions,5
+C01860,Developing,3
+C01861,Lapsed,5
+C01862,Lapsed,2
+C01863,Lapsed,4
+C01864,Lapsed,5
+C01865,Champions,4
+C01866,Developing,5
+C01868,Developing,5
+C01869,Lapsed,4
+C01870,At Risk,5
+C01871,Developing,5
+C01872,At Risk,5
+C01873,Developing,5
+C01874,Developing,5
+C01875,Lapsed,1
+C01876,New,3
+C01877,New,4
+C01878,Developing,5
+C01879,Champions,5
+C01880,New,4
+C01881,New,5
+C01882,Lapsed,4
+C01883,Developing,4
+C01884,Developing,4
+C01885,Lapsed,3
+C01886,Developing,4
+C01887,At Risk,4
+C01888,Loyal,4
+C01889,Champions,5
+C01890,Champions,5
+C01891,Champions,5
+C01892,Champions,5
+C01893,Lapsed,4
+C01894,Developing,5
+C01895,New,4
+C01896,Loyal,5
+C01897,Champions,5
+C01898,At Risk,5
+C01899,At Risk,5
+C01900,Lapsed,3
+C01901,Champions,5
+C01902,Developing,2
+C01903,Champions,5
+C01904,New,5
+C01905,New,4
+C01906,Lapsed,5
+C01907,Developing,5
+C01908,Developing,5
+C01909,Developing,5
+C01910,Developing,4
+C01911,Loyal,5
+C01913,Lapsed,4
+C01914,At Risk,5
+C01916,Developing,1
+C01917,Developing,5
+C01918,Lapsed,2
+C01919,Lapsed,3
+C01920,At Risk,5
+C01921,New,5
+C01922,Champions,5
+C01923,Lapsed,1
+C01924,Champions,5
+C01925,New,5
+C01926,Developing,2
+C01927,Loyal,5
+C01928,Developing,5
+C01929,At Risk,5
+C01930,At Risk,5
+C01931,Developing,5
+C01932,New,2
+C01933,Champions,5
+C01934,Loyal,5
+C01935,New,3
+C01936,Developing,5
+C01937,Lapsed,3
+C01938,Loyal,5
+C01939,Champions,5
+C01940,Developing,5
+C01941,Developing,5
+C01942,At Risk,5
+C01943,Champions,5
+C01944,Loyal,5
+C01945,Lapsed,3
+C01946,Loyal,5
+C01947,New,2
+C01948,Lapsed,4
+C01949,Developing,5
+C01950,Champions,5
+C01951,Champions,4
+C01952,Champions,5
+C01953,Champions,5
+C01954,Developing,5
+C01955,Lapsed,4
+C01956,Champions,5
+C01957,New,4
+C01958,Champions,5
+C01959,Lapsed,5
+C01960,Developing,5
+C01961,Lapsed,1
+C01962,Developing,4
+C01963,Lapsed,3
+C01964,New,4
+C01965,Champions,5
+C01966,Developing,5
+C01967,At Risk,5
+C01968,Developing,3
+C01969,Loyal,5
+C01970,New,5
+C01971,At Risk,5
+C01972,Champions,5
+C01973,Lapsed,4
+C01974,Developing,3
+C01975,Lapsed,4
+C01976,Lapsed,4
+C01977,Champions,5
+C01978,New,4
+C01979,Champions,5
+C01980,At Risk,5
+C01981,Developing,5
+C01982,Loyal,4
+C01983,At Risk,5
+C01984,At Risk,5
+C01986,Lapsed,5
+C01987,New,3
+C01988,Champions,5
+C01989,At Risk,4
+C01990,At Risk,5
+C01991,Champions,4
+C01992,Developing,5
+C01993,Lapsed,4
+C01994,Developing,4
+C01995,Champions,5
+C01996,At Risk,4
+C01997,Developing,5
+C01998,Lapsed,3
+C01999,Champions,5
+C02000,Developing,4
+C02001,Developing,5
+C02002,Champions,5
+C02003,Loyal,5
+C02004,Lapsed,3
+C02005,Lapsed,4
+C02006,Champions,5
+C02007,At Risk,5
+C02008,Champions,5
+C02009,At Risk,5
+C02010,Developing,1
+C02011,At Risk,5
+C02012,Developing,4
+C02013,Champions,5
+C02014,Champions,5
+C02015,Champions,5
+C02016,At Risk,4
+C02017,Champions,5
+C02018,Lapsed,3
+C02019,Champions,5
+C02020,Lapsed,4
+C02021,Champions,5
+C02022,At Risk,5
+C02024,Champions,5
+C02025,Lapsed,5
+C02026,Loyal,5
+C02027,Lapsed,2
+C02029,Lapsed,2
+C02030,Developing,5
+C02031,Champions,5
+C02032,At Risk,5
+C02033,Developing,5
+C02034,Developing,5
+C02035,New,3
+C02036,New,3
+C02037,Champions,5
+C02038,Loyal,4
+C02039,At Risk,4
+C02040,Loyal,5
+C02041,At Risk,5
+C02042,Developing,4
+C02043,Developing,5
+C02044,New,2
+C02045,Champions,5
+C02046,Lapsed,5
+C02047,New,5
+C02048,Lapsed,2
+C02049,Developing,5
+C02050,Developing,5
+C02051,Developing,5
+C02052,New,4
+C02053,Lapsed,4
+C02054,Lapsed,4
+C02055,Lapsed,5
+C02056,At Risk,4
+C02057,Loyal,5
+C02058,Developing,5
+C02059,At Risk,4
+C02060,Developing,4
+C02061,Lapsed,5
+C02062,Champions,5
+C02063,Champions,5
+C02064,Developing,4
+C02065,Developing,5
+C02066,At Risk,4
+C02067,Developing,5
+C02068,At Risk,3
+C02069,Lapsed,5
+C02070,Lapsed,4
+C02071,Champions,5
+C02072,Developing,5
+C02073,Champions,5
+C02074,At Risk,5
+C02075,Developing,3
+C02076,At Risk,5
+C02077,Lapsed,5
+C02078,Developing,4
+C02079,Developing,5
+C02080,Lapsed,4
+C02081,Developing,5
+C02082,Loyal,5
+C02083,Champions,5
+C02084,Lapsed,1
+C02085,Champions,5
+C02086,Developing,5
+C02088,Developing,3
+C02089,Developing,3
+C02090,At Risk,5
+C02091,Lapsed,4
+C02092,Lapsed,5
+C02093,Lapsed,3
+C02094,Lapsed,4
+C02095,Champions,5
+C02096,Lapsed,3
+C02097,Loyal,5
+C02098,Lapsed,2
+C02099,Loyal,4
+C02100,At Risk,5
+C02101,Developing,4
+C02102,Lapsed,5
+C02103,Loyal,5
+C02104,Champions,5
+C02105,Lapsed,2
+C02106,Developing,4
+C02107,At Risk,5
+C02109,At Risk,5
+C02110,Champions,5
+C02111,Developing,5
+C02112,Loyal,5
+C02113,Lapsed,2
+C02114,Lapsed,4
+C02115,Developing,5
+C02116,Loyal,5
+C02117,Developing,4
+C02118,Developing,5
+C02119,At Risk,5
+C02120,New,3
+C02121,Developing,4
+C02122,Developing,4
+C02123,At Risk,5
+C02124,Lapsed,3
+C02125,Developing,5
+C02126,Lapsed,5
+C02127,Champions,5
+C02128,Lapsed,2
+C02129,Developing,3
+C02130,Developing,5
+C02131,Champions,5
+C02132,At Risk,5
+C02133,Champions,5
+C02134,New,2
+C02135,At Risk,5
+C02136,At Risk,4
+C02137,Loyal,5
+C02138,Lapsed,2
+C02139,Lapsed,2
+C02140,Lapsed,2
+C02141,At Risk,5
+C02142,Developing,4
+C02143,Lapsed,4
+C02145,Loyal,5
+C02146,Champions,5
+C02147,Lapsed,5
+C02148,Lapsed,5
+C02149,Lapsed,3
+C02150,Lapsed,4
+C02151,Champions,5
+C02152,New,4
+C02153,At Risk,5
+C02154,Lapsed,2
+C02155,At Risk,5
+C02156,Developing,5
+C02157,At Risk,5
+C02158,Lapsed,5
+C02159,Champions,5
+C02160,Champions,4
+C02161,At Risk,5
+C02162,Lapsed,3
+C02163,New,4
+C02164,Developing,4
+C02165,At Risk,4
+C02166,Developing,4
+C02167,At Risk,5
+C02168,Champions,4
+C02169,Lapsed,4
+C02170,New,3
+C02171,Lapsed,2
+C02172,At Risk,5
+C02173,Lapsed,5
+C02174,Developing,5
+C02175,Developing,5
+C02176,At Risk,4
+C02177,Champions,5
+C02178,Developing,4
+C02180,Lapsed,2
+C02181,Lapsed,4
+C02183,New,4
+C02184,Lapsed,4
+C02185,At Risk,4
+C02186,At Risk,5
+C02187,Loyal,5
+C02188,Developing,5
+C02189,Champions,4
+C02190,New,4
+C02191,Champions,5
+C02192,Developing,5
+C02193,At Risk,5
+C02194,Champions,5
+C02195,Lapsed,2
+C02196,Lapsed,3
+C02197,New,3
+C02198,New,4
+C02199,Developing,4
+C02200,Lapsed,3
+C02201,At Risk,5
+C02202,Champions,5
+C02203,Lapsed,2
+C02204,Champions,5
+C02205,At Risk,5
+C02206,Loyal,5
+C02207,Loyal,5
+C02208,Lapsed,1
+C02209,Lapsed,3
+C02210,New,3
+C02211,Champions,5
+C02212,Champions,5
+C02213,At Risk,4
+C02214,Champions,5
+C02215,Lapsed,4
+C02216,At Risk,5
+C02217,Loyal,5
+C02218,Lapsed,4
+C02219,At Risk,5
+C02220,At Risk,5
+C02221,Lapsed,4
+C02222,Lapsed,4
+C02223,At Risk,5
+C02224,Developing,5
+C02225,Developing,5
+C02226,Champions,5
+C02227,Champions,5
+C02228,Developing,3
+C02229,Developing,5
+C02230,Lapsed,1
+C02231,New,2
+C02232,Loyal,5
+C02233,At Risk,5
+C02234,Developing,5
+C02235,Champions,5
+C02236,At Risk,4
+C02237,At Risk,5
+C02238,At Risk,5
+C02239,Champions,5
+C02240,Champions,5
+C02241,Developing,5
+C02242,Developing,4
+C02243,Lapsed,2
+C02244,Lapsed,4
+C02245,Developing,5
+C02246,Champions,5
+C02247,Champions,5
+C02248,Champions,5
+C02249,Lapsed,4
+C02250,Champions,5
+C02251,Lapsed,5
+C02252,Developing,5
+C02253,Lapsed,1
+C02254,At Risk,5
+C02255,Lapsed,4
+C02256,Developing,4
+C02257,Lapsed,1
+C02258,Developing,4
+C02259,Champions,4
+C02260,Champions,5
+C02261,Lapsed,5
+C02262,Developing,4
+C02263,Developing,5
+C02264,New,2
+C02265,Champions,5
+C02266,Developing,5
+C02267,Developing,5
+C02268,Champions,5
+C02269,At Risk,5
+C02270,Loyal,5
+C02271,Lapsed,4
+C02272,Developing,4
+C02273,Lapsed,4
+C02274,Lapsed,5
+C02275,Loyal,5
+C02276,Lapsed,5
+C02277,Developing,5
+C02278,At Risk,5
+C02279,Lapsed,3
+C02280,Loyal,5
+C02281,New,5
+C02282,Champions,5
+C02283,Lapsed,4
+C02284,At Risk,5
+C02285,Champions,5
+C02286,Champions,5
+C02287,Lapsed,3
+C02288,Developing,5
+C02289,At Risk,4
+C02290,Champions,5
+C02291,At Risk,5
+C02292,New,1
+C02293,Champions,5
+C02294,Champions,5
+C02295,Champions,5
+C02296,At Risk,5
+C02297,Developing,4
+C02298,Developing,5
+C02299,Champions,5
+C02300,New,4
+C02301,Lapsed,4
+C02302,Developing,4
+C02303,Champions,5
+C02304,Lapsed,3
+C02305,At Risk,5
+C02306,New,4
+C02307,New,5
+C02308,Lapsed,5
+C02309,Developing,5
+C02310,New,5
+C02311,Lapsed,2
+C02312,Champions,4
+C02313,Developing,5
+C02314,Lapsed,3
+C02315,Lapsed,4
+C02316,At Risk,4
+C02317,New,4
+C02318,Lapsed,5
+C02319,Developing,5
+C02320,At Risk,4
+C02321,Lapsed,2
+C02322,Lapsed,3
+C02323,Champions,5
+C02324,Champions,5
+C02325,Developing,5
+C02326,At Risk,5
+C02327,Champions,5
+C02328,Developing,5
+C02329,At Risk,4
+C02330,Developing,5
+C02331,Developing,3
+C02332,At Risk,5
+C02333,Lapsed,4
+C02334,Developing,5
+C02335,Developing,5
+C02336,Lapsed,3
+C02337,Lapsed,1
+C02338,Lapsed,1
+C02339,Developing,4
+C02340,Lapsed,4
+C02341,Champions,5
+C02342,Developing,5
+C02343,Lapsed,4
+C02344,Developing,5
+C02346,Lapsed,2
+C02347,Champions,5
+C02348,Champions,5
+C02349,New,2
+C02350,Lapsed,4
+C02351,Champions,5
+C02352,Lapsed,4
+C02353,Lapsed,2
+C02354,At Risk,5
+C02355,Lapsed,5
+C02356,Developing,5
+C02357,Loyal,5
+C02358,Champions,5
+C02359,Developing,5
+C02360,New,3
+C02361,Developing,5
+C02362,Loyal,5
+C02363,Loyal,5
+C02364,Lapsed,4
+C02365,Champions,5
+C02366,Developing,5
+C02367,Developing,5
+C02368,Lapsed,5
+C02369,Lapsed,3
+C02370,At Risk,4
+C02371,Developing,4
+C02372,At Risk,5
+C02373,Lapsed,5
+C02374,Lapsed,5
+C02375,Developing,5
+C02376,Developing,4
+C02377,Lapsed,2
+C02378,At Risk,5
+C02379,Developing,5
+C02380,Lapsed,4
+C02381,Champions,5
+C02382,New,2
+C02383,Developing,5
+C02384,Champions,5
+C02385,Lapsed,5
+C02386,Developing,5
+C02387,Lapsed,5
+C02388,Champions,5
+C02389,At Risk,5
+C02390,At Risk,5
+C02391,Champions,5
+C02392,Lapsed,4
+C02393,Lapsed,4
+C02395,New,4
+C02396,Lapsed,3
+C02397,At Risk,4
+C02398,At Risk,5
+C02399,At Risk,5
+C02400,Champions,5
+C02401,Lapsed,2
+C02402,At Risk,4
+C02403,New,3
+C02404,Champions,5
+C02405,Lapsed,5
+C02406,Lapsed,3
+C02407,Lapsed,5
+C02408,New,5
+C02409,Developing,5
+C02410,Loyal,5
+C02411,At Risk,5
+C02412,Lapsed,4
+C02413,Developing,5
+C02414,Developing,5
+C02415,Developing,5
+C02416,Developing,5
+C02417,Developing,5
+C02418,Developing,5
+C02419,Champions,5
+C02420,Champions,5
+C02421,Developing,5
+C02422,Champions,4
+C02423,Lapsed,4
+C02424,Developing,5
+C02425,New,3
+C02426,Champions,5
+C02427,Champions,5
+C02428,At Risk,5
+C02429,New,2
+C02430,At Risk,5
+C02431,Champions,5
+C02432,At Risk,5
+C02433,Developing,5
+C02435,Developing,4
+C02436,Lapsed,5
+C02437,Champions,5
+C02438,Developing,4
+C02439,Lapsed,2
+C02440,Developing,5
+C02441,Champions,5
+C02442,Champions,4
+C02443,At Risk,5
+C02444,Champions,5
+C02445,Champions,5
+C02446,Loyal,5
+C02447,Lapsed,3
+C02448,At Risk,5
+C02449,Loyal,5
+C02450,Lapsed,5
+C02452,Loyal,5
+C02453,Champions,5
+C02454,Lapsed,3
+C02455,Developing,3
+C02456,Lapsed,4
+C02457,New,5
+C02458,Lapsed,5
+C02459,New,3
+C02460,Lapsed,4
+C02461,Champions,5
+C02462,Loyal,5
+C02463,Developing,3
+C02464,Champions,5
+C02465,Champions,5
+C02466,Lapsed,3
+C02467,At Risk,5
+C02468,Champions,5
+C02469,Lapsed,3
+C02470,New,3
+C02472,Champions,5
+C02473,Developing,5
+C02474,At Risk,4
+C02475,At Risk,5
+C02476,At Risk,5
+C02477,Champions,5
+C02478,Developing,5
+C02479,Developing,4
+C02480,Lapsed,3
+C02481,Champions,5
+C02482,Champions,5
+C02483,Loyal,5
+C02484,Developing,5
+C02485,New,2
+C02486,Lapsed,1
+C02487,Developing,5
+C02488,Lapsed,4
+C02489,Loyal,5
+C02490,Developing,4
+C02491,Lapsed,3
+C02492,Developing,5
+C02493,New,5
+C02494,Lapsed,4
+C02495,Developing,5
+C02496,Lapsed,1
+C02497,Champions,5
+C02498,Lapsed,4
+C02499,Developing,4
+C02500,Loyal,5
+C02501,Developing,5
+C02502,Developing,5
+C02503,Developing,5
+C02504,Lapsed,3
+C02505,Developing,5
+C02506,At Risk,5
+C02507,Developing,5
+C02508,New,4
+C02509,Champions,5
+C02510,Champions,5
+C02511,Loyal,5
+C02512,Champions,5
+C02513,New,3
+C02514,New,4
+C02515,Lapsed,4
+C02516,Champions,5
+C02517,New,2
+C02518,At Risk,5
+C02519,At Risk,4
+C02520,Champions,5
+C02521,At Risk,5
+C02523,Lapsed,2
+C02524,Champions,5
+C02525,Lapsed,5
+C02526,Champions,5
+C02527,At Risk,5
+C02528,Developing,2
+C02529,Developing,4
+C02530,Lapsed,2
+C02531,At Risk,5
+C02532,Champions,5
+C02533,Loyal,5
+C02534,Developing,4
+C02535,Champions,5
+C02536,Lapsed,1
+C02537,Champions,5
+C02538,New,5
+C02539,Developing,4
+C02540,Developing,5
+C02541,Lapsed,3
+C02542,Developing,5
+C02543,At Risk,5
+C02544,New,2
+C02545,Developing,4
+C02546,Lapsed,3
+C02547,At Risk,5
+C02548,Champions,5
+C02549,Champions,5
+C02550,Loyal,5
+C02551,Champions,5
+C02552,At Risk,4
+C02553,Champions,5
+C02554,Lapsed,3
+C02555,Champions,5
+C02556,Lapsed,4
+C02557,At Risk,5
+C02558,Developing,5
+C02559,At Risk,5
+C02560,Lapsed,4
+C02561,Loyal,5
+C02562,Developing,4
+C02563,Developing,5
+C02564,New,2
+C02565,At Risk,4
+C02566,Lapsed,5
+C02567,Lapsed,4
+C02568,Loyal,5
+C02569,Loyal,5
+C02570,Lapsed,2
+C02571,Developing,4
+C02572,Lapsed,4
+C02573,Developing,4
+C02574,Lapsed,4
+C02575,Developing,5
+C02576,Lapsed,5
+C02577,Loyal,5
+C02578,Loyal,3
+C02579,Developing,4
+C02580,Lapsed,5
+C02581,Champions,5
+C02582,Developing,5
+C02583,Loyal,5
+C02584,Champions,5
+C02585,Developing,5
+C02586,Champions,5
+C02587,New,4
+C02588,New,1
+C02589,At Risk,5
+C02591,New,3
+C02592,Lapsed,5
+C02593,Champions,5
+C02594,Developing,4
+C02595,Champions,5
+C02596,Developing,5
+C02597,Lapsed,5
+C02598,Champions,5
+C02599,At Risk,5
+C02600,Champions,5
+C02601,Lapsed,4
+C02602,At Risk,5
+C02603,Lapsed,4
+C02604,Champions,5
+C02605,Champions,5
+C02606,Champions,5
+C02607,At Risk,5
+C02608,Lapsed,5
+C02609,Developing,4
+C02610,At Risk,4
+C02611,Champions,5
+C02612,Champions,5
+C02613,Developing,4
+C02614,At Risk,5
+C02615,Champions,5
+C02616,Developing,5
+C02617,Champions,4
+C02618,Lapsed,5
+C02619,Champions,5
+C02621,Lapsed,4
+C02622,At Risk,5
+C02623,Champions,5
+C02624,New,1
+C02625,New,5
+C02626,Developing,4
+C02627,Lapsed,4
+C02628,Champions,5
+C02629,Lapsed,5
+C02630,Lapsed,4
+C02631,Developing,5
+C02632,At Risk,4
+C02633,Champions,5
+C02634,Lapsed,4
+C02635,Lapsed,5
+C02636,Lapsed,1
+C02637,Champions,5
+C02638,Lapsed,1
+C02639,Champions,5
+C02640,At Risk,4
+C02641,Loyal,5
+C02642,New,5
+C02643,Loyal,5
+C02644,At Risk,5
+C02645,Champions,5
+C02646,At Risk,5
+C02647,Lapsed,4
+C02648,Champions,5
+C02649,Champions,5
+C02650,Lapsed,4
+C02652,Champions,4
+C02653,Loyal,5
+C02654,Lapsed,1
+C02655,Developing,5
+C02656,Developing,4
+C02657,Champions,5
+C02658,Lapsed,4
+C02659,Loyal,4
+C02660,Lapsed,4
+C02661,Lapsed,4
+C02662,Loyal,5
+C02663,New,1
+C02664,Lapsed,4
+C02665,Lapsed,5
+C02666,Developing,5
+C02667,Developing,5
+C02668,At Risk,5
+C02669,Lapsed,5
+C02670,At Risk,5
+C02671,New,1
+C02672,Developing,5
+C02673,At Risk,5
+C02674,Developing,5
+C02675,Loyal,5
+C02676,Champions,5
+C02677,At Risk,5
+C02678,Champions,5
+C02679,Champions,3
+C02680,Loyal,5
+C02681,Loyal,5
+C02682,Lapsed,4
+C02683,Lapsed,2
+C02684,At Risk,5
+C02685,At Risk,5
+C02686,Champions,4
+C02687,Lapsed,4
+C02688,Lapsed,3
+C02689,Lapsed,5
+C02690,Developing,1
+C02691,Loyal,4
+C02692,New,4
+C02693,Loyal,5
+C02694,At Risk,4
+C02695,Loyal,5
+C02697,Lapsed,4
+C02698,New,2
+C02699,Loyal,5
+C02700,New,5
+C02702,At Risk,5
+C02704,Champions,5
+C02705,At Risk,5
+C02706,Developing,5
+C02707,Champions,5
+C02708,Lapsed,2
+C02709,At Risk,5
+C02710,Lapsed,2
+C02711,New,4
+C02712,At Risk,5
+C02713,At Risk,5
+C02714,Developing,5
+C02715,At Risk,5
+C02716,New,4
+C02717,At Risk,4
+C02718,Developing,5
+C02719,Champions,5
+C02720,Champions,4
+C02721,Lapsed,3
+C02722,New,3
+C02724,Developing,3
+C02725,Developing,5
+C02726,Developing,4
+C02727,Lapsed,5
+C02728,Champions,5
+C02729,Champions,5
+C02730,Lapsed,5
+C02731,Loyal,5
+C02732,New,3
+C02733,Champions,4
+C02734,Lapsed,3
+C02735,Lapsed,4
+C02736,Loyal,5
+C02737,Lapsed,5
+C02738,Champions,5
+C02739,New,4
+C02740,At Risk,5
+C02741,At Risk,5
+C02742,Champions,5
+C02743,Lapsed,4
+C02744,Champions,5
+C02745,Lapsed,4
+C02746,Champions,5
+C02747,At Risk,5
+C02748,Lapsed,4
+C02749,New,5
+C02750,Champions,5
+C02751,Champions,5
+C02752,Lapsed,4
+C02753,At Risk,5
+C02754,Developing,5
+C02755,Champions,5
+C02756,Loyal,5
+C02757,Champions,5
+C02758,Champions,5
+C02759,Loyal,5
+C02760,Champions,5
+C02761,New,5
+C02762,At Risk,5
+C02763,Lapsed,4
+C02764,Lapsed,1
+C02765,Champions,5
+C02766,At Risk,5
+C02767,Champions,5
+C02768,Loyal,5
+C02769,Champions,5
+C02770,Lapsed,5
+C02771,At Risk,3
+C02772,Lapsed,4
+C02773,Champions,5
+C02774,Loyal,5
+C02775,New,5
+C02776,Champions,5
+C02777,Lapsed,4
+C02778,At Risk,5
+C02779,Champions,5
+C02780,Loyal,5
+C02781,Lapsed,3
+C02782,Loyal,5
+C02783,Lapsed,4
+C02784,Champions,5
+C02785,Champions,5
+C02786,Developing,5
+C02787,New,5
+C02788,Developing,5
+C02789,Lapsed,2
+C02790,Champions,5
+C02791,At Risk,5
+C02792,At Risk,4
+C02793,At Risk,5
+C02794,Lapsed,3
+C02795,Champions,5
+C02796,Champions,5
+C02797,Champions,4
+C02798,At Risk,5
+C02799,Lapsed,1
+C02800,At Risk,5
+C02801,Champions,4
+C02802,At Risk,5
+C02803,At Risk,5
+C02804,At Risk,5
+C02805,Champions,5
+C02806,Developing,1
+C02807,Lapsed,5
+C02808,Developing,5
+C02809,At Risk,4
+C02810,Lapsed,4
+C02811,At Risk,5
+C02812,Developing,5
+C02814,Lapsed,1
+C02815,Loyal,5
+C02816,Champions,5
+C02817,Developing,4
+C02818,New,2
+C02819,Loyal,5
+C02820,Lapsed,2
+C02821,Lapsed,3
+C02822,At Risk,5
+C02823,At Risk,3
+C02824,Developing,5
+C02825,Developing,4
+C02826,Champions,5
+C02827,New,2
+C02828,At Risk,5
+C02829,Champions,5
+C02830,Champions,5
+C02831,Champions,5
+C02832,Champions,5
+C02833,Lapsed,3
+C02834,Developing,4
+C02835,New,4
+C02836,Loyal,5
+C02837,Champions,5
+C02838,Developing,5
+C02839,New,5
+C02840,Loyal,5
+C02841,Developing,3
+C02842,New,1
+C02843,New,1
+C02844,Lapsed,3
+C02845,At Risk,5
+C02846,Developing,5
+C02847,Lapsed,3
+C02848,Lapsed,4
+C02849,Champions,5
+C02850,New,2
+C02851,Lapsed,3
+C02852,Lapsed,2
+C02853,Champions,5
+C02854,At Risk,5
+C02855,Lapsed,2
+C02856,Champions,5
+C02857,Champions,5
+C02858,Champions,5
+C02859,At Risk,5
+C02860,Champions,5
+C02861,Champions,5
+C02862,At Risk,5
+C02863,Loyal,5
+C02865,At Risk,5
+C02866,Champions,5
+C02867,At Risk,5
+C02868,Lapsed,3
+C02869,Developing,4
+C02870,At Risk,5
+C02871,At Risk,5
+C02872,Lapsed,4
+C02873,Loyal,5
+C02874,Lapsed,3
+C02875,Champions,5
+C02876,At Risk,5
+C02877,At Risk,5
+C02878,Developing,4
+C02879,Developing,3
+C02880,At Risk,4
+C02881,Developing,5
+C02882,Developing,5
+C02883,At Risk,5
+C02884,Champions,5
+C02885,Developing,5
+C02886,Lapsed,3
+C02887,Champions,5
+C02888,Developing,5
+C02889,Champions,5
+C02890,Champions,5
+C02891,Champions,5
+C02892,Champions,5
+C02893,Champions,4
+C02894,Developing,3
+C02895,Lapsed,5
+C02896,Champions,5
+C02897,Loyal,5
+C02898,Developing,5
+C02899,At Risk,5
+C02900,At Risk,5
+C02901,Lapsed,2
+C02902,Champions,5
+C02903,Lapsed,4
+C02904,Champions,5
+C02905,New,5
+C02906,Loyal,5
+C02907,Champions,5
+C02908,At Risk,5
+C02909,Lapsed,4
+C02910,Lapsed,5
+C02912,New,2
+C02913,Champions,5
+C02914,Lapsed,4
+C02915,New,3
+C02916,Loyal,5
+C02917,At Risk,5
+C02918,At Risk,5
+C02919,At Risk,5
+C02920,At Risk,4
+C02921,Developing,5
+C02922,Lapsed,1
+C02923,At Risk,5
+C02924,Champions,5
+C02925,At Risk,5
+C02926,At Risk,5
+C02927,Champions,5
+C02928,Champions,5
+C02929,Lapsed,2
+C02930,At Risk,5
+C02931,New,4
+C02932,Champions,5
+C02933,Loyal,5
+C02934,Lapsed,5
+C02935,At Risk,5
+C02936,Champions,5
+C02937,Lapsed,4
+C02938,Champions,5
+C02939,Lapsed,3
+C02940,Lapsed,3
+C02941,Champions,5
+C02942,Developing,4
+C02943,Lapsed,4
+C02944,Champions,5
+C02945,Lapsed,5
+C02947,New,5
+C02948,Champions,5
+C02949,New,3
+C02950,New,3
+C02951,At Risk,5
+C02952,Champions,5
+C02953,Developing,4
+C02954,Developing,5
+C02955,New,4
+C02956,Champions,5
+C02957,Lapsed,2
+C02958,Lapsed,3
+C02959,Lapsed,4
+C02960,Developing,4
+C02961,Loyal,5
+C02962,Champions,5
+C02963,At Risk,5
+C02965,Lapsed,1
+C02966,Champions,5
+C02967,At Risk,4
+C02968,At Risk,4
+C02969,At Risk,5
+C02970,At Risk,4
+C02971,Loyal,5
+C02972,Lapsed,5
+C02973,Loyal,5
+C02974,Champions,4
+C02975,At Risk,5
+C02976,Developing,5
+C02977,Lapsed,3
+C02978,Lapsed,4
+C02979,At Risk,5
+C02980,Lapsed,4
+C02981,At Risk,5
+C02982,At Risk,5
+C02983,Loyal,4
+C02984,Lapsed,3
+C02985,Lapsed,4
+C02986,Lapsed,4
+C02987,Champions,5
+C02988,Lapsed,3
+C02989,At Risk,5
+C02990,Loyal,5
+C02991,New,4
+C02992,At Risk,5
+C02993,Loyal,5
+C02994,Lapsed,4
+C02995,Lapsed,1
+C02996,Champions,5
+C02997,At Risk,5
+C02998,Champions,5
+C02999,Champions,5
+C03000,At Risk,5
+C03001,Loyal,5
+C03002,Champions,5
+C03003,At Risk,5
+C03004,Lapsed,3
+C03005,Lapsed,4
+C03006,Loyal,5
+C03007,Champions,5
+C03008,Champions,5
+C03009,Lapsed,4
+C03010,Lapsed,3
+C03011,Developing,4
+C03012,Champions,5
+C03013,At Risk,5
+C03014,Developing,4
+C03015,Loyal,5
+C03016,Champions,4
+C03017,Developing,4
+C03018,Developing,3
+C03019,Champions,5
+C03020,Champions,5
+C03021,Loyal,4
+C03022,Loyal,4
+C03023,Champions,5
+C03024,Lapsed,3
+C03025,Champions,5
+C03026,Developing,5
+C03027,Lapsed,5
+C03028,At Risk,4
+C03029,At Risk,5
+C03030,Loyal,5
+C03031,Loyal,5
+C03032,At Risk,5
+C03033,At Risk,5
+C03034,Champions,4
+C03035,Loyal,5
+C03036,Developing,5
+C03037,Developing,5
+C03038,New,4
+C03039,Loyal,5
+C03040,New,2
+C03041,Loyal,5
+C03042,Champions,5
+C03043,Lapsed,3
+C03044,New,4
+C03045,Champions,5
+C03046,New,1
+C03047,Lapsed,5
+C03048,New,5
+C03049,Lapsed,4
+C03050,Champions,5
+C03051,Developing,4
+C03052,Champions,5
+C03053,Champions,4
+C03054,Developing,5
+C03055,At Risk,5
+C03056,Champions,5
+C03057,At Risk,5
+C03058,At Risk,5
+C03059,At Risk,5
+C03060,Lapsed,1
+C03062,Champions,5
+C03063,Lapsed,5
+C03064,Lapsed,3
+C03065,Loyal,5
+C03066,Lapsed,4
+C03067,Lapsed,1
+C03068,Lapsed,3
+C03069,Developing,5
+C03070,At Risk,4
+C03071,Lapsed,5
+C03072,Champions,5
+C03073,Lapsed,4
+C03074,Lapsed,3
+C03075,Developing,5
+C03077,Loyal,5
+C03078,Developing,5
+C03079,Lapsed,4
+C03081,Champions,5
+C03082,New,4
+C03083,New,1
+C03084,Lapsed,3
+C03085,Champions,5
+C03086,Lapsed,2
+C03087,Lapsed,5
+C03088,Loyal,5
+C03089,Champions,5
+C03090,Loyal,5
+C03091,Lapsed,3
+C03092,Loyal,5
+C03093,Loyal,5
+C03094,Champions,5
+C03095,Lapsed,3
+C03096,Champions,5
+C03097,Lapsed,4
+C03098,New,5
+C03099,Lapsed,5
+C03100,Lapsed,5
+C03101,Lapsed,1
+C03102,Champions,5
+C03103,Developing,4
+C03104,Lapsed,4
+C03105,New,5
+C03106,Lapsed,4
+C03107,At Risk,4
+C03108,At Risk,5
+C03109,Developing,4
+C03111,At Risk,5
+C03112,Champions,5
+C03113,Champions,5
+C03114,At Risk,5
+C03115,At Risk,5
+C03116,Champions,5
+C03117,Champions,5
+C03118,Champions,5
+C03119,Developing,5
+C03120,At Risk,5
+C03121,Developing,4
+C03122,At Risk,5
+C03123,Lapsed,3
+C03124,Lapsed,3
+C03125,Champions,5
+C03126,Champions,5
+C03127,Loyal,5
+C03128,Developing,2
+C03130,Champions,5
+C03131,New,4
+C03132,Lapsed,4
+C03133,New,2
+C03134,Champions,4
+C03135,Champions,5
+C03136,Champions,5
+C03137,Lapsed,4
+C03138,Developing,4
+C03139,Loyal,4
+C03140,Lapsed,3
+C03141,Developing,5
+C03142,Champions,5
+C03143,Champions,5
+C03144,Loyal,5
+C03145,Lapsed,5
+C03146,Lapsed,2
+C03147,Lapsed,4
+C03148,At Risk,5
+C03149,At Risk,5
+C03150,At Risk,5
+C03151,Developing,5
+C03152,At Risk,5
+C03153,At Risk,5
+C03154,Developing,5
+C03155,Developing,5
+C03156,Loyal,5
+C03157,Developing,5
+C03159,Developing,3
+C03160,Loyal,5
+C03161,Lapsed,5
+C03162,At Risk,5
+C03163,Lapsed,5
+C03164,Lapsed,2
+C03165,Lapsed,5
+C03166,At Risk,5
+C03167,Champions,5
+C03168,Developing,5
+C03169,Loyal,5
+C03170,Champions,5
+C03171,New,3
+C03172,Lapsed,5
+C03173,Champions,5
+C03174,Champions,5
+C03175,Lapsed,5
+C03176,New,3
+C03177,Developing,5
+C03178,Lapsed,5
+C03179,Lapsed,3
+C03180,New,3
+C03181,Champions,5
+C03182,Developing,4
+C03183,New,2
+C03184,Loyal,5
+C03185,At Risk,5
+C03187,New,4
+C03188,At Risk,5
+C03189,New,1
+C03190,Developing,5
+C03191,Developing,5
+C03192,Lapsed,2
+C03193,Developing,5
+C03194,Developing,1
+C03195,Lapsed,2
+C03196,Developing,5
+C03197,Champions,4
+C03198,New,5
+C03199,At Risk,5
+C03200,Developing,5
+C03202,At Risk,5
+C03203,At Risk,5
+C03204,Champions,5
+C03205,New,4
+C03206,Loyal,5
+C03207,Loyal,5
+C03208,Lapsed,5
+C03209,At Risk,5
+C03210,At Risk,4
+C03212,New,4
+C03213,Champions,5
+C03214,Lapsed,4
+C03215,New,3
+C03216,Champions,5
+C03217,At Risk,5
+C03218,Developing,5
+C03219,Lapsed,4
+C03220,Lapsed,3
+C03221,At Risk,5
+C03222,Developing,4
+C03223,Lapsed,3
+C03224,Loyal,5
+C03225,Loyal,5
+C03226,At Risk,5
+C03227,Loyal,5
+C03228,At Risk,5
+C03229,Champions,5
+C03230,Developing,5
+C03231,Developing,5
+C03232,Lapsed,3
+C03233,Champions,5
+C03234,Lapsed,3
+C03235,Lapsed,1
+C03236,Champions,5
+C03237,Lapsed,2
+C03238,Developing,3
+C03239,New,5
+C03240,Lapsed,5
+C03241,Developing,4
+C03242,Champions,5
+C03243,Champions,5
+C03244,New,3
+C03245,Loyal,5
+C03246,Lapsed,4
+C03247,Lapsed,2
+C03248,Loyal,5
+C03249,At Risk,5
+C03250,Lapsed,1
+C03251,Loyal,5
+C03252,New,1
+C03253,Lapsed,2
+C03254,Loyal,5
+C03255,Champions,4
+C03256,New,2
+C03257,Lapsed,1
+C03258,Lapsed,4
+C03259,At Risk,5
+C03260,New,5
+C03261,Lapsed,1
+C03262,Developing,3
+C03263,Lapsed,4
+C03264,Developing,4
+C03265,New,5
+C03266,Champions,5
+C03267,Lapsed,4
+C03268,Lapsed,4
+C03269,At Risk,5
+C03270,Lapsed,3
+C03271,Loyal,5
+C03272,Loyal,5
+C03273,Lapsed,1
+C03274,Lapsed,2
+C03275,Developing,5
+C03276,New,2
+C03277,New,3
+C03278,Champions,5
+C03279,Lapsed,3
+C03280,Loyal,5
+C03281,At Risk,5
+C03282,Champions,5
+C03283,Champions,5
+C03284,Loyal,5
+C03285,Loyal,4
+C03286,Champions,5
+C03287,Champions,5
+C03288,Champions,5
+C03289,Lapsed,1
+C03290,Lapsed,4
+C03291,At Risk,5
+C03292,Developing,5
+C03293,Lapsed,3
+C03294,Lapsed,4
+C03295,Champions,5
+C03296,Champions,5
+C03297,Champions,5
+C03298,Lapsed,4
+C03299,Champions,5
+C03300,At Risk,5
+C03301,Developing,4
+C03302,Champions,5
+C03303,New,1
+C03304,Developing,5
+C03305,Champions,5
+C03306,Lapsed,4
+C03307,New,3
+C03308,Lapsed,1
+C03309,Developing,5
+C03310,Developing,5
+C03311,Developing,5
+C03312,Lapsed,5
+C03313,At Risk,5
+C03314,Lapsed,5
+C03315,Lapsed,4
+C03316,Loyal,5
+C03317,Lapsed,3
+C03319,Champions,5
+C03320,Champions,5
+C03321,New,5
+C03322,At Risk,5
+C03323,Lapsed,2
+C03324,At Risk,5
+C03325,Champions,5
+C03326,Developing,3
+C03327,At Risk,4
+C03328,Developing,5
+C03329,Developing,3
+C03330,Loyal,5
+C03332,Loyal,5
+C03333,Champions,5
+C03334,Lapsed,2
+C03335,Champions,5
+C03336,Champions,5
+C03337,At Risk,5
+C03338,At Risk,5
+C03339,Champions,5
+C03340,Champions,5
+C03341,New,1
+C03342,Champions,5
+C03343,Developing,4
+C03344,Champions,5
+C03345,New,5
+C03346,Champions,4
+C03348,Champions,5
+C03349,Lapsed,4
+C03350,Champions,5
+C03351,Champions,5
+C03352,Champions,5
+C03353,Developing,5
+C03354,Developing,5
+C03355,Champions,5
+C03356,Developing,5
+C03357,Developing,4
+C03358,Loyal,5
+C03359,Loyal,5
+C03360,Champions,5
+C03361,Developing,5
+C03362,Developing,3
+C03363,Champions,5
+C03364,Champions,5
+C03365,Lapsed,2
+C03366,Lapsed,4
+C03367,At Risk,5
+C03368,Lapsed,2
+C03369,Champions,5
+C03370,At Risk,5
+C03371,Lapsed,5
+C03372,Lapsed,5
+C03373,Lapsed,4
+C03374,Lapsed,2
+C03375,Lapsed,1
+C03376,Developing,5
+C03377,Lapsed,4
+C03378,Developing,5
+C03379,At Risk,5
+C03380,Loyal,5
+C03381,Champions,5
+C03382,New,2
+C03383,Lapsed,2
+C03384,At Risk,4
+C03385,At Risk,4
+C03386,At Risk,4
+C03387,Loyal,5
+C03388,New,1
+C03389,At Risk,5
+C03390,New,4
+C03391,At Risk,4
+C03392,Champions,4
+C03393,At Risk,5
+C03394,Lapsed,4
+C03395,New,3
+C03396,Champions,4
+C03397,Developing,5
+C03398,Developing,5
+C03399,Champions,5
+C03400,At Risk,5
+C03401,Developing,4
+C03402,Lapsed,1
+C03403,Champions,5
+C03404,Developing,5
+C03405,Loyal,5
+C03406,Loyal,4
+C03407,Lapsed,5
+C03408,Champions,4
+C03409,New,2
+C03410,Lapsed,5
+C03411,At Risk,5
+C03412,Champions,5
+C03413,At Risk,5
+C03414,New,4
+C03415,At Risk,5
+C03416,Lapsed,3
+C03417,Lapsed,3
+C03418,Lapsed,5
+C03419,Champions,5
+C03420,Developing,5
+C03421,New,3
+C03422,Loyal,5
+C03423,Loyal,5
+C03424,Lapsed,4
+C03425,Loyal,5
+C03426,At Risk,5
+C03427,Champions,5
+C03428,Champions,5
+C03429,Lapsed,3
+C03430,At Risk,4
+C03431,Loyal,5
+C03432,Champions,5
+C03433,New,4
+C03434,Developing,5
+C03435,At Risk,5
+C03436,Developing,5
+C03437,Loyal,5
+C03438,Champions,5
+C03439,Champions,5
+C03440,Loyal,5
+C03441,Champions,4
+C03442,Champions,5
+C03443,Loyal,5
+C03444,Loyal,4
+C03445,Champions,5
+C03446,Lapsed,3
+C03447,Lapsed,4
+C03448,Lapsed,3
+C03449,Developing,5
+C03450,Champions,5
+C03451,Lapsed,4
+C03452,Lapsed,2
+C03453,Champions,5
+C03454,Lapsed,5
+C03455,Champions,5
+C03456,At Risk,5
+C03457,At Risk,5
+C03458,Developing,5
+C03459,New,3
+C03461,Champions,4
+C03462,Lapsed,3
+C03463,Champions,5
+C03464,Lapsed,4
+C03465,At Risk,5
+C03466,Champions,5
+C03467,Developing,3
+C03469,Lapsed,5
+C03470,Loyal,5
+C03471,Champions,5
+C03472,At Risk,4
+C03473,Champions,5
+C03474,Loyal,5
+C03475,Developing,5
+C03476,Champions,5
+C03477,Lapsed,4
+C03478,At Risk,5
+C03479,New,5
+C03480,Loyal,5
+C03481,Lapsed,5
+C03482,Developing,5
+C03483,Lapsed,4
+C03484,At Risk,5
+C03485,At Risk,5
+C03486,Champions,5
+C03487,Lapsed,4
+C03488,Champions,5
+C03489,Developing,4
+C03490,Developing,5
+C03491,Developing,4
+C03492,Champions,5
+C03493,Champions,5
+C03494,Champions,5
+C03495,Developing,5
+C03496,Lapsed,4
+C03497,At Risk,4
+C03498,Loyal,5
+C03499,At Risk,5
+C03500,Lapsed,5
+C03501,Loyal,5
+C03502,Champions,5
+C03503,Developing,2
+C03504,New,5
+C03505,Loyal,5
+C03506,Lapsed,2
+C03507,At Risk,5
+C03508,Loyal,5
+C03510,Champions,5
+C03511,Developing,3
+C03512,Developing,4
+C03513,Champions,5
+C03514,Lapsed,4
+C03515,Champions,5
+C03516,At Risk,5
+C03517,At Risk,4
+C03518,New,2
+C03519,Champions,5
+C03520,Lapsed,3
+C03521,Lapsed,2
+C03522,At Risk,5
+C03523,At Risk,5
+C03524,Champions,5
+C03525,Champions,5
+C03526,Champions,5
+C03527,Champions,5
+C03528,At Risk,5
+C03529,Champions,5
+C03530,Champions,5
+C03531,Champions,5
+C03532,Champions,5
+C03533,Loyal,5
+C03534,Developing,5
+C03535,Champions,5
+C03537,Champions,5
+C03538,Champions,4
+C03539,Developing,5
+C03540,New,5
+C03541,At Risk,5
+C03542,Loyal,5
+C03543,Lapsed,5
+C03544,Champions,5
+C03545,At Risk,5
+C03546,Champions,5
+C03547,Champions,5
+C03548,Champions,5
+C03549,New,4
+C03550,Developing,4
+C03551,At Risk,4
+C03552,At Risk,5
+C03553,Developing,5
+C03554,New,1
+C03555,Champions,5
+C03556,New,2
+C03557,Developing,4
+C03558,Developing,5
+C03559,Developing,3
+C03560,Lapsed,3
+C03561,Lapsed,4
+C03562,Champions,5
+C03563,Champions,5
+C03564,Champions,5
+C03565,Developing,3
+C03566,Champions,5
+C03567,Developing,5
+C03568,Champions,5
+C03569,At Risk,5
+C03570,Lapsed,5
+C03571,Lapsed,4
+C03572,Champions,5
+C03573,Developing,5
+C03574,Lapsed,5
+C03575,Champions,5
+C03576,New,2
+C03577,Lapsed,4
+C03578,Lapsed,2
+C03579,Loyal,4
+C03580,Champions,5
+C03581,Champions,5
+C03582,Champions,5
+C03583,New,2
+C03584,Developing,5
+C03585,Champions,5
+C03586,Loyal,5
+C03587,Lapsed,5
+C03588,Lapsed,4
+C03589,New,5
+C03590,Loyal,5
+C03591,At Risk,5
+C03592,Champions,5
+C03593,At Risk,5
+C03594,New,4
+C03595,Developing,5
+C03596,Lapsed,4
+C03597,Loyal,5
+C03598,New,5
+C03599,Champions,5
+C03600,Developing,5
+C03601,Lapsed,4
+C03602,Lapsed,3
+C03603,Developing,4
+C03604,Champions,5
+C03605,At Risk,4
+C03606,Developing,5
+C03607,Lapsed,4
+C03608,At Risk,5
+C03609,Lapsed,5
+C03610,Lapsed,4
+C03611,At Risk,5
+C03612,Lapsed,2
+C03613,Loyal,5
+C03614,New,4
+C03615,Champions,5
+C03617,Loyal,5
+C03618,Champions,5
+C03619,Champions,5
+C03620,Lapsed,5
+C03621,Champions,5
+C03622,At Risk,5
+C03623,Lapsed,4
+C03624,Lapsed,5
+C03625,Developing,5
+C03626,Developing,4
+C03627,Developing,4
+C03628,Lapsed,4
+C03629,Champions,5
+C03630,Developing,5
+C03631,Loyal,5
+C03632,Champions,5
+C03633,Developing,5
+C03634,At Risk,5
+C03635,Lapsed,5
+C03636,New,3
+C03637,Champions,5
+C03638,Lapsed,5
+C03639,New,4
+C03640,At Risk,3
+C03641,Lapsed,5
+C03642,Lapsed,3
+C03643,Developing,2
+C03644,Developing,5
+C03645,Developing,5
+C03646,Developing,5
+C03647,Champions,5
+C03648,Champions,5
+C03649,Lapsed,5
+C03650,Lapsed,4
+C03651,At Risk,5
+C03652,Loyal,5
+C03654,Developing,5
+C03655,Lapsed,3
+C03656,Lapsed,1
+C03657,At Risk,4
+C03658,Lapsed,3
+C03659,At Risk,5
+C03660,Champions,5
+C03661,At Risk,5
+C03662,Champions,4
+C03663,Loyal,5
+C03664,Champions,5
+C03665,Lapsed,2
+C03666,New,2
+C03667,Champions,5
+C03668,Loyal,5
+C03669,Lapsed,5
+C03670,Champions,5
+C03671,Lapsed,4
+C03672,Developing,2
+C03673,New,5
+C03674,New,5
+C03675,Developing,1
+C03676,At Risk,5
+C03677,Lapsed,5
+C03678,New,4
+C03679,New,4
+C03680,Champions,5
+C03681,Developing,5
+C03682,Champions,4
+C03683,Lapsed,1
+C03684,Champions,5
+C03685,At Risk,5
+C03686,Lapsed,4
+C03687,Developing,1
+C03688,Lapsed,4
+C03689,Champions,5
+C03690,Lapsed,5
+C03691,Champions,5
+C03692,Developing,5
+C03693,Champions,5
+C03694,Lapsed,3
+C03695,Developing,5
+C03696,Lapsed,4
+C03697,Champions,5
+C03698,Champions,4
+C03699,New,3
+C03700,Champions,5
+C03701,Champions,5
+C03702,At Risk,4
+C03703,At Risk,5
+C03704,New,1
+C03705,New,4
+C03706,Developing,4
+C03707,Champions,5
+C03708,At Risk,5
+C03709,Developing,5
+C03710,Loyal,5
+C03711,Developing,5
+C03712,At Risk,5
+C03713,Champions,5
+C03714,Loyal,5
+C03715,New,5
+C03716,Developing,5
+C03717,At Risk,5
+C03718,Champions,5
+C03719,New,5
+C03720,Champions,5
+C03722,Loyal,5
+C03723,Developing,5
+C03724,New,4
+C03725,Champions,5
+C03726,Lapsed,4
+C03727,At Risk,5
+C03728,Lapsed,3
+C03729,Lapsed,4
+C03730,At Risk,5
+C03731,New,2
+C03732,Lapsed,3
+C03733,Champions,5
+C03734,At Risk,4
+C03735,Loyal,5
+C03736,Lapsed,5
+C03737,Champions,5
+C03738,At Risk,5
+C03739,Developing,3
+C03740,Champions,5
+C03741,Lapsed,3
+C03742,Lapsed,3
+C03743,At Risk,5
+C03744,Loyal,5
+C03745,New,2
+C03746,Champions,5
+C03747,At Risk,5
+C03748,Champions,5
+C03749,Lapsed,2
+C03750,Champions,5
+C03751,Lapsed,1
+C03752,Developing,5
+C03753,At Risk,5
+C03754,Lapsed,5
+C03755,Champions,5
+C03756,Champions,5
+C03757,Developing,5
+C03758,Developing,4
+C03759,Loyal,5
+C03760,Lapsed,4
+C03761,Champions,5
+C03762,At Risk,5
+C03763,At Risk,5
+C03764,Lapsed,4
+C03765,Loyal,5
+C03766,At Risk,4
+C03767,Loyal,5
+C03768,New,4
+C03769,At Risk,4
+C03770,Lapsed,5
+C03771,Loyal,5
+C03772,Developing,4
+C03773,At Risk,5
+C03774,At Risk,4
+C03775,Lapsed,2
+C03776,Lapsed,3
+C03777,At Risk,5
+C03778,Lapsed,2
+C03779,New,2
+C03780,At Risk,4
+C03781,Lapsed,2
+C03782,Champions,5
+C03783,At Risk,4
+C03784,Developing,4
+C03785,Lapsed,3
+C03786,Lapsed,3
+C03787,Loyal,5
+C03788,At Risk,4
+C03789,Developing,4
+C03790,At Risk,5
+C03791,Developing,3
+C03792,Developing,5
+C03793,At Risk,5
+C03794,Lapsed,3
+C03795,Developing,5
+C03796,New,3
+C03797,Lapsed,3
+C03798,Developing,5
+C03799,Developing,3
+C03800,At Risk,5
+C03801,Developing,2
+C03802,Lapsed,4
+C03803,Lapsed,4
+C03804,Loyal,5
+C03805,Developing,5
+C03806,Loyal,5
+C03807,Lapsed,3
+C03808,Loyal,5
+C03809,New,5
+C03810,Champions,5
+C03811,Developing,2
+C03812,Lapsed,3
+C03813,Loyal,5
+C03814,Champions,5
+C03815,At Risk,5
+C03816,Lapsed,4
+C03817,Champions,4
+C03818,Lapsed,3
+C03819,Lapsed,3
+C03820,At Risk,5
+C03821,New,3
+C03822,Lapsed,3
+C03823,Developing,3
+C03824,New,3
+C03825,Developing,5
+C03826,Developing,5
+C03827,New,3
+C03828,Loyal,5
+C03829,Developing,5
+C03830,Champions,5
+C03831,Lapsed,3
+C03832,Champions,5
+C03833,Loyal,5
+C03834,Loyal,5
+C03835,Champions,5
+C03836,Lapsed,4
+C03837,Developing,5
+C03838,At Risk,5
+C03839,Champions,5
+C03840,Loyal,5
+C03841,Loyal,5
+C03842,New,4
+C03843,Champions,5
+C03844,Developing,5
+C03845,At Risk,4
+C03846,Champions,4
+C03847,Lapsed,5
+C03848,Loyal,5
+C03849,Loyal,5
+C03850,Developing,4
+C03851,New,1
+C03852,Champions,5
+C03853,Champions,5
+C03854,At Risk,4
+C03855,Developing,3
+C03856,New,3
+C03857,New,4
+C03858,New,4
+C03859,Champions,5
+C03860,Champions,5
+C03861,Lapsed,4
+C03862,Developing,5
+C03863,Champions,5
+C03864,New,2
+C03865,Champions,4
+C03866,Developing,4
+C03867,Champions,5
+C03868,Champions,5
+C03869,Developing,4
+C03870,At Risk,4
+C03871,Lapsed,5
+C03872,Developing,5
+C03873,At Risk,5
+C03874,Lapsed,4
+C03875,Champions,5
+C03876,Loyal,5
+C03877,Loyal,5
+C03878,Champions,5
+C03879,Champions,5
+C03880,At Risk,5
+C03881,Developing,5
+C03882,Developing,5
+C03884,Champions,5
+C03885,At Risk,4
+C03886,Lapsed,3
+C03887,Loyal,4
+C03888,Lapsed,5
+C03889,Developing,5
+C03890,Lapsed,4
+C03891,At Risk,5
+C03892,Champions,4
+C03893,Loyal,5
+C03894,Loyal,5
+C03895,Champions,5
+C03896,New,2
+C03897,Lapsed,5
+C03898,Developing,5
+C03900,Champions,5
+C03901,Champions,5
+C03902,At Risk,5
+C03903,Loyal,5
+C03904,Developing,4
+C03905,At Risk,5
+C03906,Loyal,5
+C03907,Lapsed,4
+C03908,Developing,5
+C03909,Champions,5
+C03910,At Risk,5
+C03912,Lapsed,3
+C03913,At Risk,5
+C03914,Loyal,5
+C03915,Lapsed,4
+C03916,Lapsed,2
+C03917,At Risk,4
+C03918,Lapsed,3
+C03919,Developing,5
+C03920,Champions,5
+C03921,Champions,5
+C03922,Champions,5
+C03923,Champions,5
+C03924,Developing,5
+C03925,At Risk,5
+C03926,Developing,5
+C03927,Lapsed,5
+C03928,Champions,5
+C03929,Developing,5
+C03930,At Risk,5
+C03931,At Risk,4
+C03932,New,4
+C03933,Loyal,5
+C03934,Lapsed,4
+C03935,Loyal,5
+C03936,Loyal,5
+C03937,New,4
+C03938,Lapsed,5
+C03939,Champions,5
+C03940,Lapsed,2
+C03941,Champions,5
+C03942,Lapsed,2
+C03943,New,3
+C03944,New,3
+C03945,New,3
+C03946,Loyal,5
+C03947,Lapsed,4
+C03948,New,4
+C03949,Champions,5
+C03950,Lapsed,5
+C03951,Developing,5
+C03952,Lapsed,5
+C03953,Lapsed,4
+C03954,Loyal,5
+C03955,Developing,4
+C03956,Champions,5
+C03957,Loyal,5
+C03958,Developing,5
+C03959,Lapsed,1
+C03960,Champions,5
+C03961,Lapsed,4
+C03962,Champions,5
+C03963,New,3
+C03964,Developing,5
+C03965,Champions,5
+C03966,Lapsed,5
+C03967,New,4
+C03968,Lapsed,5
+C03969,At Risk,4
+C03970,Lapsed,4
+C03971,Champions,5
+C03972,Loyal,5
+C03973,Developing,5
+C03974,Developing,4
+C03975,At Risk,5
+C03976,New,3
+C03977,Champions,5
+C03978,Lapsed,4
+C03979,New,5
+C03980,Champions,5
+C03981,Developing,5
+C03982,Lapsed,5
+C03983,Lapsed,4
+C03984,New,5
+C03985,Champions,5
+C03986,Loyal,5
+C03987,Champions,5
+C03988,Developing,4
+C03989,Champions,5
+C03990,New,3
+C03991,At Risk,5
+C03992,Developing,5
+C03993,At Risk,5
+C03994,Loyal,5
+C03995,Developing,5
+C03996,New,4
+C03997,Lapsed,3
+C03998,Lapsed,5
+C03999,New,4
+C04000,New,5
+C04001,Loyal,5
+C04002,Lapsed,4
+C04003,Lapsed,5
+C04004,Lapsed,3
+C04005,New,5
+C04006,Champions,5
+C04007,New,5
+C04008,Developing,5
+C04009,Developing,4
+C04010,Developing,4
+C04011,At Risk,5
+C04012,At Risk,5
+C04013,At Risk,5
+C04014,Champions,5
+C04015,At Risk,5
+C04017,Developing,5
+C04018,Lapsed,2
+C04019,Champions,4
+C04020,Loyal,4
+C04021,New,4
+C04022,New,1
+C04024,Lapsed,2
+C04025,Champions,5
+C04026,Champions,5
+C04027,Champions,5
+C04028,Lapsed,5
+C04030,Lapsed,3
+C04031,New,2
+C04032,At Risk,5
+C04033,Lapsed,2
+C04034,Lapsed,5
+C04035,Loyal,5
+C04036,New,3
+C04037,Champions,5
+C04038,Developing,5
+C04040,Champions,5
+C04041,Lapsed,5
+C04042,Lapsed,4
+C04043,New,4
+C04044,Champions,5
+C04045,Champions,5
+C04046,Loyal,5
+C04047,Developing,1
+C04048,Champions,4
+C04049,New,4
+C04050,Champions,5
+C04051,Champions,5
+C04052,At Risk,5
+C04053,Champions,5
+C04054,Loyal,5
+C04055,At Risk,3
+C04056,New,4
+C04057,New,5
+C04058,At Risk,5
+C04059,Lapsed,4
+C04060,Champions,5
+C04061,Lapsed,2
+C04062,Lapsed,3
+C04063,At Risk,5
+C04064,Champions,4
+C04065,Developing,5
+C04066,Developing,5
+C04067,Lapsed,2
+C04068,Lapsed,2
+C04069,Developing,4
+C04070,Lapsed,4
+C04071,Developing,5
+C04072,Developing,4
+C04073,Champions,5
+C04074,At Risk,5
+C04075,Developing,5
+C04076,At Risk,3
+C04077,Developing,3
+C04078,New,2
+C04079,Lapsed,4
+C04080,At Risk,4
+C04081,At Risk,5
+C04082,At Risk,5
+C04084,Lapsed,3
+C04085,Champions,5
+C04086,New,2
+C04087,Lapsed,5
+C04088,At Risk,5
+C04089,Champions,5
+C04090,Loyal,5
+C04091,Lapsed,5
+C04092,At Risk,5
+C04093,Loyal,5
+C04094,Loyal,5
+C04095,Loyal,5
+C04096,At Risk,5
+C04097,Loyal,5
+C04098,Lapsed,5
+C04099,New,3
+C04100,New,3
+C04101,Lapsed,4
+C04102,Champions,5
+C04103,At Risk,5
+C04104,Champions,5
+C04105,Lapsed,5
+C04106,Lapsed,1
+C04107,At Risk,5
+C04108,New,4
+C04109,Lapsed,4
+C04110,Lapsed,3
+C04111,Developing,5
+C04112,Loyal,5
+C04113,Loyal,5
+C04114,New,3
+C04115,Champions,5
+C04116,Developing,5
+C04117,Developing,3
+C04118,Lapsed,4
+C04119,Loyal,5
+C04120,Champions,4
+C04121,Champions,5
+C04122,Developing,5
+C04123,Champions,5
+C04124,Lapsed,4
+C04125,At Risk,5
+C04126,Developing,5
+C04127,Champions,5
+C04128,Lapsed,5
+C04129,Developing,5
+C04130,Developing,4
+C04131,Developing,4
+C04132,New,4
+C04133,Lapsed,4
+C04134,Developing,4
+C04135,Lapsed,5
+C04136,At Risk,4
+C04137,At Risk,5
+C04138,Loyal,5
+C04139,Developing,5
+C04140,Lapsed,3
+C04141,Loyal,5
+C04142,Champions,5
+C04143,At Risk,4
+C04144,At Risk,4
+C04145,New,5
+C04146,Champions,5
+C04147,Champions,5
+C04148,At Risk,3
+C04149,At Risk,4
+C04150,At Risk,5
+C04151,Champions,5
+C04152,Lapsed,4
+C04153,Lapsed,4
+C04154,Champions,5
+C04155,Developing,5
+C04156,New,5
+C04157,At Risk,5
+C04158,Champions,5
+C04159,Champions,5
+C04160,Developing,3
+C04161,Champions,5
+C04162,Lapsed,4
+C04163,Loyal,5
+C04164,Lapsed,4
+C04165,Lapsed,5
+C04166,Lapsed,2
+C04167,Champions,5
+C04168,Champions,5
+C04169,Lapsed,3
+C04170,Lapsed,3
+C04171,At Risk,5
+C04172,New,3
+C04173,Lapsed,4
+C04174,New,2
+C04175,Loyal,5
+C04176,New,3
+C04177,Champions,5
+C04178,Developing,4
+C04179,At Risk,5
+C04180,New,5
+C04181,Champions,5
+C04182,Champions,4
+C04183,Champions,5
+C04184,Developing,5
+C04185,Champions,5
+C04186,Lapsed,4
+C04187,Champions,5
+C04188,Champions,5
+C04189,At Risk,4
+C04190,New,2
+C04191,New,5
+C04192,Developing,4
+C04193,Champions,5
+C04194,Champions,4
+C04195,Lapsed,3
+C04196,Champions,5
+C04197,Lapsed,3
+C04198,Developing,4
+C04199,Loyal,5
+C04200,Lapsed,5
+C04201,Developing,5
+C04202,Developing,5
+C04203,Lapsed,3
+C04205,New,3
+C04206,Champions,5
+C04207,Champions,4
+C04208,Champions,5
+C04209,Champions,5
+C04210,Loyal,5
+C04211,Champions,5
+C04212,Champions,4
+C04213,Champions,4
+C04214,At Risk,5
+C04215,At Risk,5
+C04216,At Risk,5
+C04217,Developing,4
+C04218,At Risk,5
+C04219,Developing,5
+C04220,Champions,5
+C04221,Champions,4
+C04222,At Risk,5
+C04223,New,4
+C04224,Lapsed,3
+C04225,Developing,5
+C04226,Champions,4
+C04227,Developing,4
+C04228,Developing,5
+C04229,Lapsed,5
+C04230,Lapsed,5
+C04231,Loyal,4
+C04232,Developing,5
+C04233,Lapsed,4
+C04234,Lapsed,3
+C04235,At Risk,4
+C04236,Champions,5
+C04237,Lapsed,5
+C04238,Lapsed,5
+C04239,At Risk,5
+C04240,Champions,5
+C04241,Loyal,5
+C04242,Lapsed,4
+C04243,Loyal,5
+C04244,New,4
+C04245,Champions,4
+C04246,Loyal,5
+C04247,Champions,5
+C04248,Developing,5
+C04249,Developing,3
+C04250,At Risk,5
+C04251,New,5
+C04252,At Risk,5
+C04253,Lapsed,4
+C04254,Champions,5
+C04255,New,1
+C04256,New,3
+C04257,At Risk,5
+C04258,At Risk,5
+C04259,Champions,5
+C04260,New,4
+C04261,New,3
+C04262,Champions,5
+C04263,Developing,5
+C04264,Lapsed,5
+C04265,Champions,5
+C04266,Champions,4
+C04267,Loyal,5
+C04268,Champions,5
+C04269,Champions,5
+C04270,Lapsed,5
+C04271,Lapsed,2
+C04272,At Risk,5
+C04273,Loyal,5
+C04274,At Risk,5
+C04275,Developing,4
+C04276,At Risk,5
+C04277,Lapsed,4
+C04278,Champions,5
+C04279,Lapsed,3
+C04280,At Risk,5
+C04281,New,3
+C04282,New,3
+C04283,Champions,5
+C04284,Lapsed,4
+C04285,Lapsed,5
+C04286,Champions,5
+C04287,Lapsed,5
+C04288,Champions,5
+C04289,At Risk,4
+C04290,Loyal,5
+C04291,Developing,4
+C04292,Champions,5
+C04293,Champions,5
+C04294,Developing,4
+C04295,Loyal,4
+C04296,Loyal,5
+C04297,Lapsed,4
+C04298,Lapsed,2
+C04299,Champions,5
+C04300,Champions,5
+C04301,New,3
+C04302,New,4
+C04303,Lapsed,3
+C04304,Lapsed,3
+C04305,Lapsed,5
+C04306,New,2
+C04307,Champions,5
+C04308,Developing,5
+C04309,At Risk,4
+C04310,Lapsed,3
+C04311,Lapsed,4
+C04312,Champions,5
+C04313,Lapsed,5
+C04314,At Risk,5
+C04315,Developing,4
+C04316,Champions,5
+C04317,Lapsed,4
+C04318,At Risk,5
+C04319,Champions,5
+C04320,Developing,5
+C04321,Lapsed,3
+C04322,Lapsed,2
+C04323,New,2
+C04324,Lapsed,4
+C04325,Champions,5
+C04326,Champions,5
+C04327,Developing,1
+C04328,Lapsed,4
+C04329,At Risk,5
+C04330,Developing,5
+C04331,Champions,5
+C04332,Champions,5
+C04333,New,4
+C04334,At Risk,5
+C04335,Lapsed,5
+C04336,Champions,5
+C04337,Lapsed,4
+C04338,Champions,5
+C04339,New,4
+C04340,At Risk,5
+C04341,New,3
+C04342,Lapsed,5
+C04343,Developing,5
+C04344,Developing,4
+C04345,Champions,5
+C04346,Lapsed,3
+C04347,Lapsed,5
+C04348,New,5
+C04349,Loyal,5
+C04350,Lapsed,4
+C04351,Champions,5
+C04352,Loyal,3
+C04353,Lapsed,5
+C04354,Champions,4
+C04355,Champions,5
+C04356,Loyal,5
+C04357,New,1
+C04358,Lapsed,3
+C04359,Champions,5
+C04360,Champions,5
+C04361,Developing,5
+C04362,Champions,5
+C04363,Developing,5
+C04364,At Risk,5
+C04365,Champions,5
+C04366,Champions,4
+C04367,Lapsed,3
+C04368,Loyal,5
+C04369,At Risk,5
+C04370,Developing,5
+C04371,Champions,5
+C04372,At Risk,5
+C04373,Developing,5
+C04374,Loyal,5
+C04375,Lapsed,4
+C04376,At Risk,5
+C04377,New,3
+C04379,Lapsed,2
+C04380,Champions,5
+C04381,Champions,5
+C04382,Champions,5
+C04383,At Risk,5
+C04384,Lapsed,3
+C04385,Developing,3
+C04386,Developing,5
+C04388,Loyal,5
+C04389,Developing,4
+C04390,Lapsed,5
+C04391,Lapsed,5
+C04392,Champions,5
+C04395,Champions,5
+C04396,New,4
+C04397,Champions,5
+C04398,Loyal,5
+C04399,Developing,5
+C04400,Champions,5
+C04401,Developing,4
+C04402,New,4
+C04403,At Risk,5
+C04404,Developing,5
+C04405,Lapsed,3
+C04406,Lapsed,4
+C04407,Developing,5
+C04408,At Risk,5
+C04409,At Risk,5
+C04410,Loyal,5
+C04412,New,4
+C04413,Developing,5
+C04414,Champions,5
+C04415,New,2
+C04416,Lapsed,4
+C04417,Lapsed,4
+C04418,Champions,5
+C04419,Lapsed,4
+C04420,At Risk,5
+C04421,Loyal,5
+C04422,Lapsed,4
+C04423,At Risk,5
+C04424,At Risk,5
+C04425,At Risk,5
+C04426,At Risk,5
+C04427,At Risk,5
+C04428,Developing,5
+C04429,Champions,5
+C04430,Champions,4
+C04431,At Risk,5
+C04432,Lapsed,5
+C04433,New,5
+C04434,Loyal,5
+C04435,Lapsed,5
+C04436,New,4
+C04437,Lapsed,5
+C04438,Champions,4
+C04439,Lapsed,3
+C04440,Lapsed,2
+C04441,Champions,3
+C04442,Developing,4
+C04443,Loyal,5
+C04444,Developing,4
+C04445,New,3
+C04446,Developing,2
+C04447,At Risk,5
+C04448,Champions,5
+C04449,Lapsed,5
+C04450,Champions,5
+C04451,At Risk,5
+C04452,New,2
+C04453,Loyal,5
+C04454,Lapsed,4
+C04455,Loyal,5
+C04456,Champions,5
+C04457,Champions,5
+C04458,Lapsed,4
+C04459,Loyal,5
+C04460,New,2
+C04461,Loyal,5
+C04462,Lapsed,5
+C04463,New,5
+C04464,Developing,3
+C04465,Champions,5
+C04466,Loyal,5
+C04467,Developing,4
+C04469,Loyal,5
+C04470,New,5
+C04471,At Risk,5
+C04472,At Risk,5
+C04473,Champions,5
+C04474,Champions,5
+C04475,Developing,4
+C04476,Loyal,5
+C04477,Lapsed,3
+C04478,Champions,4
+C04479,Loyal,5
+C04480,Developing,5
+C04481,Loyal,5
+C04482,Lapsed,3
+C04483,At Risk,4
+C04484,Loyal,5
+C04485,Loyal,5
+C04486,New,4
+C04487,Champions,5
+C04488,Loyal,5
+C04489,Developing,3
+C04490,Lapsed,5
+C04491,Champions,5
+C04492,Loyal,4
+C04493,At Risk,5
+C04495,At Risk,5
+C04496,Loyal,5
+C04497,Champions,5
+C04498,Champions,5
+C04499,Developing,4
+C04500,At Risk,5
+C04501,Lapsed,4
+C04502,Lapsed,4
+C04503,Lapsed,5
+C04504,At Risk,5
+C04505,Loyal,5
+C04506,Champions,5
+C04507,Lapsed,4
+C04508,Developing,5
+C04509,Developing,4
+C04510,Lapsed,5
+C04511,Champions,5
+C04512,Champions,5
+C04513,Developing,4
+C04514,Champions,5
+C04515,At Risk,5
+C04516,Lapsed,5
+C04517,At Risk,5
+C04518,Lapsed,4
+C04519,New,4
+C04520,Champions,5
+C04521,Champions,5
+C04522,Champions,4
+C04523,At Risk,5
+C04524,Champions,5
+C04525,Loyal,5
+C04526,New,1
+C04527,Lapsed,3
+C04528,New,3
+C04529,Lapsed,5
+C04530,New,4
+C04531,Developing,5
+C04532,At Risk,5
+C04533,Lapsed,3
+C04534,Champions,5
+C04535,Lapsed,1
+C04536,Loyal,5
+C04537,Lapsed,2
+C04538,Lapsed,4
+C04539,Developing,4
+C04540,Loyal,5
+C04541,Lapsed,2
+C04542,Developing,4
+C04543,Developing,5
+C04545,At Risk,5
+C04546,Lapsed,3
+C04547,Champions,5
+C04548,Lapsed,3
+C04549,Lapsed,3
+C04550,Lapsed,4
+C04551,Champions,5
+C04552,New,4
+C04553,Champions,5
+C04554,Champions,5
+C04555,Lapsed,5
+C04556,At Risk,5
+C04557,Lapsed,5
+C04558,Developing,3
+C04559,At Risk,3
+C04560,Loyal,5
+C04561,Loyal,5
+C04562,Developing,5
+C04563,Lapsed,5
+C04564,Champions,5
+C04565,Lapsed,5
+C04566,New,3
+C04567,At Risk,5
+C04568,Lapsed,5
+C04569,At Risk,5
+C04570,Champions,5
+C04571,Champions,5
+C04572,Developing,5
+C04574,At Risk,5
+C04575,Champions,5
+C04576,At Risk,5
+C04577,Lapsed,3
+C04578,New,5
+C04579,Developing,5
+C04580,Developing,4
+C04581,Lapsed,4
+C04582,Champions,5
+C04583,At Risk,5
+C04584,New,4
+C04585,Lapsed,4
+C04586,Lapsed,3
+C04587,Developing,3
+C04588,Loyal,5
+C04589,Developing,5
+C04590,At Risk,5
+C04591,New,4
+C04592,Developing,5
+C04593,Developing,4
+C04594,Lapsed,2
+C04595,New,5
+C04596,New,3
+C04597,Lapsed,4
+C04598,Champions,5
+C04599,Loyal,5
+C04600,Developing,5
+C04601,Lapsed,5
+C04602,Lapsed,3
+C04603,Developing,4
+C04604,Champions,4
+C04605,New,2
+C04606,At Risk,5
+C04607,Loyal,5
+C04608,New,5
+C04609,At Risk,5
+C04610,New,2
+C04611,Developing,5
+C04612,Champions,5
+C04613,Developing,5
+C04614,Lapsed,4
+C04615,At Risk,5
+C04616,New,1
+C04617,Champions,5
+C04618,New,2
+C04619,Loyal,5
+C04620,At Risk,5
+C04621,At Risk,5
+C04622,At Risk,5
+C04623,New,3
+C04624,Loyal,5
+C04625,Champions,5
+C04626,Lapsed,5
+C04627,At Risk,5
+C04628,At Risk,5
+C04629,Champions,5
+C04630,At Risk,5
+C04631,At Risk,5
+C04632,New,4
+C04633,At Risk,4
+C04634,Developing,3
+C04635,Lapsed,4
+C04636,Lapsed,4
+C04637,Developing,1
+C04638,At Risk,4
+C04639,Lapsed,4
+C04640,Champions,5
+C04641,Developing,5
+C04642,New,2
+C04643,At Risk,5
+C04644,Developing,5
+C04645,Lapsed,4
+C04646,Lapsed,4
+C04647,Loyal,5
+C04648,New,5
+C04649,At Risk,5
+C04650,At Risk,5
+C04651,Developing,5
+C04652,Champions,5
+C04653,Lapsed,4
+C04654,Loyal,5
+C04655,Developing,4
+C04656,New,5
+C04657,Lapsed,5
+C04658,Champions,5
+C04659,Champions,5
+C04660,At Risk,5
+C04661,At Risk,5
+C04662,Developing,5
+C04663,Loyal,5
+C04664,Lapsed,3
+C04665,Champions,5
+C04666,Lapsed,3
+C04667,Lapsed,4
+C04668,Loyal,5
+C04669,Lapsed,4
+C04670,Champions,5
+C04671,Champions,5
+C04672,Champions,5
+C04673,At Risk,5
+C04674,Champions,5
+C04675,Champions,5
+C04676,New,4
+C04677,At Risk,5
+C04678,Lapsed,4
+C04679,At Risk,5
+C04680,Lapsed,1
+C04681,Lapsed,4
+C04682,Champions,5
+C04683,Lapsed,4
+C04684,Lapsed,4
+C04685,Lapsed,2
+C04686,Developing,4
+C04687,Loyal,5
+C04688,At Risk,5
+C04689,New,4
+C04690,Champions,5
+C04691,Champions,4
+C04692,At Risk,5
+C04693,Lapsed,5
+C04694,Lapsed,2
+C04695,Champions,5
+C04696,At Risk,5
+C04697,At Risk,5
+C04698,Lapsed,5
+C04699,Developing,5
+C04700,Lapsed,1
+C04701,At Risk,5
+C04702,Lapsed,5
+C04703,Developing,4
+C04704,Champions,5
+C04705,Developing,3
+C04706,Lapsed,3
+C04707,At Risk,4
+C04708,At Risk,5
+C04709,Lapsed,3
+C04710,At Risk,4
+C04711,Developing,5
+C04712,Lapsed,5
+C04713,At Risk,4
+C04714,Developing,4
+C04715,Developing,4
+C04716,Lapsed,4
+C04717,Developing,5
+C04718,Lapsed,4
+C04719,Lapsed,5
+C04720,Lapsed,5
+C04721,Lapsed,4
+C04722,Champions,5
+C04723,New,3
+C04724,New,3
+C04725,Lapsed,4
+C04726,Lapsed,5
+C04727,Champions,5
+C04728,Lapsed,4
+C04729,At Risk,5
+C04730,Developing,5
+C04731,Loyal,5
+C04732,Champions,5
+C04733,Lapsed,4
+C04734,Developing,5
+C04735,Loyal,5
+C04736,Lapsed,3
+C04737,Champions,5
+C04738,Champions,5
+C04739,Loyal,5
+C04740,Lapsed,4
+C04741,Developing,5
+C04742,Champions,5
+C04743,Champions,5
+C04744,At Risk,5
+C04745,New,4
+C04746,At Risk,4
+C04747,At Risk,5
+C04748,Lapsed,3
+C04749,Lapsed,5
+C04750,New,5
+C04751,Champions,5
+C04752,At Risk,5
+C04753,Champions,5
+C04754,Champions,4
+C04755,Developing,5
+C04756,Loyal,5
+C04758,Champions,5
+C04759,Lapsed,4
+C04760,Developing,5
+C04761,Champions,4
+C04762,Developing,5
+C04763,Developing,5
+C04764,Champions,5
+C04765,Champions,5
+C04766,Champions,5
+C04767,Loyal,5
+C04768,Champions,5
+C04769,Lapsed,5
+C04770,Loyal,5
+C04771,Developing,5
+C04772,At Risk,5
+C04773,Developing,5
+C04774,Lapsed,5
+C04775,Champions,5
+C04776,Loyal,4
+C04777,New,4
+C04778,Champions,5
+C04779,At Risk,5
+C04780,Champions,5
+C04781,New,3
+C04782,Lapsed,4
+C04783,Lapsed,5
+C04784,Lapsed,2
+C04785,Lapsed,4
+C04787,Loyal,5
+C04788,Lapsed,4
+C04789,Lapsed,4
+C04790,Lapsed,5
+C04791,Lapsed,3
+C04792,Lapsed,3
+C04793,At Risk,5
+C04794,At Risk,4
+C04795,At Risk,5
+C04796,Developing,5
+C04797,New,3
+C04798,Lapsed,3
+C04799,Lapsed,4
+C04800,New,1
+C04801,Developing,5
+C04802,Champions,4
+C04803,New,2
+C04804,Developing,5
+C04805,At Risk,5
+C04806,Lapsed,3
+C04807,Developing,3
+C04808,Lapsed,4
+C04809,At Risk,5
+C04810,Champions,5
+C04811,Champions,5
+C04812,Champions,5
+C04813,Loyal,5
+C04814,Lapsed,3
+C04815,Lapsed,3
+C04816,New,3
+C04817,Champions,5
+C04818,At Risk,4
+C04819,Lapsed,4
+C04820,Lapsed,5
+C04821,Loyal,5
+C04822,Loyal,5
+C04823,At Risk,4
+C04824,At Risk,5
+C04825,Developing,3
+C04826,Loyal,5
+C04827,Lapsed,4
+C04828,New,4
+C04829,At Risk,4
+C04830,Lapsed,3
+C04831,Loyal,5
+C04832,Champions,5
+C04833,Developing,5
+C04834,At Risk,5
+C04835,Lapsed,3
+C04836,New,3
+C04838,At Risk,5
+C04839,Developing,5
+C04840,Developing,4
+C04841,Lapsed,3
+C04842,Champions,5
+C04843,Lapsed,5
+C04844,Developing,5
+C04845,Champions,5
+C04846,At Risk,4
+C04847,Loyal,4
+C04848,At Risk,5
+C04849,Champions,5
+C04850,Lapsed,2
+C04851,At Risk,5
+C04852,Lapsed,1
+C04853,At Risk,5
+C04854,New,3
+C04855,Champions,5
+C04856,Lapsed,5
+C04857,Loyal,5
+C04858,Champions,5
+C04859,Developing,5
+C04860,Developing,5
+C04861,New,1
+C04862,Loyal,5
+C04863,Champions,5
+C04864,Champions,5
+C04865,Lapsed,4
+C04866,Lapsed,4
+C04867,Champions,5
+C04868,New,5
+C04869,Lapsed,5
+C04870,Developing,5
+C04871,New,1
+C04872,At Risk,5
+C04873,Loyal,5
+C04874,Lapsed,4
+C04875,Lapsed,4
+C04876,Loyal,5
+C04877,At Risk,3
+C04878,Lapsed,4
+C04879,Lapsed,1
+C04880,Developing,3
+C04881,Lapsed,1
+C04882,Developing,2
+C04883,At Risk,5
+C04884,Loyal,5
+C04885,Champions,5
+C04886,Champions,5
+C04887,At Risk,5
+C04888,Developing,1
+C04889,Champions,5
+C04890,Lapsed,4
+C04891,At Risk,5
+C04892,Lapsed,2
+C04893,Champions,5
+C04894,New,2
+C04895,At Risk,5
+C04896,At Risk,5
+C04897,Loyal,5
+C04898,At Risk,4
+C04899,Champions,4
+C04900,Lapsed,2
+C04901,Developing,5
+C04902,At Risk,5
+C04903,Champions,5
+C04905,Developing,2
+C04906,Lapsed,3
+C04907,Developing,5
+C04908,Lapsed,4
+C04909,Developing,5
+C04910,Champions,5
+C04911,Champions,5
+C04912,Developing,5
+C04913,Champions,5
+C04914,New,3
+C04915,New,5
+C04916,At Risk,4
+C04917,Champions,5
+C04918,Developing,4
+C04919,Lapsed,5
+C04920,Lapsed,5
+C04922,Lapsed,2
+C04923,Champions,5
+C04924,Lapsed,1
+C04925,At Risk,5
+C04926,Champions,5
+C04927,Lapsed,3
+C04928,At Risk,4
+C04929,At Risk,5
+C04930,Champions,5
+C04931,Developing,4
+C04932,Developing,2
+C04933,Lapsed,4
+C04934,Champions,5
+C04935,Champions,5
+C04936,Developing,5
+C04937,Champions,5
+C04938,Developing,4
+C04939,Lapsed,4
+C04940,Developing,5
+C04941,At Risk,5
+C04942,At Risk,5
+C04943,Champions,5
+C04944,Loyal,5
+C04945,At Risk,4
+C04946,Champions,5
+C04947,Developing,5
+C04948,Lapsed,5
+C04949,At Risk,5
+C04950,New,4
+C04951,Champions,5
+C04952,Lapsed,3
+C04953,Champions,5
+C04954,Developing,5
+C04955,Lapsed,5
+C04956,At Risk,4
+C04957,Lapsed,4
+C04958,Lapsed,5
+C04959,Champions,5
+C04960,Lapsed,2
+C04961,Lapsed,3
+C04962,Loyal,5
+C04963,At Risk,5
+C04964,At Risk,4
+C04965,Developing,4
+C04966,New,5
+C04967,Lapsed,4
+C04968,Champions,5
+C04969,New,5
+C04971,Champions,5
+C04972,Champions,5
+C04973,Developing,5
+C04974,Lapsed,3
+C04975,Loyal,5
+C04976,Lapsed,3
+C04977,Developing,5
+C04978,Champions,5
+C04979,Lapsed,3
+C04980,At Risk,5
+C04981,Lapsed,2
+C04982,Lapsed,2
+C04983,Champions,5
+C04984,Loyal,5
+C04985,Developing,4
+C04986,At Risk,5
+C04987,At Risk,4
+C04988,Lapsed,3
+C04989,New,4
+C04990,Developing,5
+C04991,At Risk,5
+C04992,Lapsed,5
+C04993,Loyal,5
+C04994,New,3
+C04995,Champions,5
+C04996,At Risk,5
+C04997,New,4
+C04998,Loyal,5
+C04999,Developing,5
+C05000,Developing,4
+C05001,At Risk,5
+C05002,Developing,4
+C05003,Loyal,4
+C05004,Champions,4
+C05005,Developing,5
+C05006,Lapsed,3
+C05007,Champions,5
+C05008,Developing,3
+C05009,Champions,5
+C05010,Developing,5
+C05011,Lapsed,4
+C05012,Lapsed,4
+C05013,Lapsed,5
+C05014,Developing,4
+C05015,At Risk,4
+C05016,Champions,5
+C05017,Developing,4
+C05018,Lapsed,3
+C05019,Lapsed,5
+C05020,Champions,5
+C05021,Loyal,5
+C05022,Lapsed,4
+C05023,Loyal,5
+C05024,At Risk,5
+C05025,Champions,5
+C05026,Lapsed,4
+C05027,Loyal,5
+C05028,At Risk,5
+C05029,At Risk,5
+C05030,At Risk,5
+C05031,At Risk,5
+C05032,Champions,5
+C05033,Loyal,5
+C05034,New,2
+C05035,At Risk,5
+C05036,At Risk,4
+C05037,Champions,5
+C05038,Developing,5
+C05039,Champions,5
+C05040,Champions,5
+C05041,Developing,5
+C05042,At Risk,4
+C05043,Loyal,5
+C05044,Champions,5
+C05045,At Risk,5
+C05046,New,4
+C05047,Lapsed,4
+C05048,Loyal,5
+C05049,Champions,5
+C05050,Lapsed,5
+C05051,Lapsed,5
+C05052,Champions,5
+C05053,Lapsed,3
+C05054,Lapsed,3
+C05055,Lapsed,1
+C05056,Champions,5
+C05057,Loyal,5
+C05058,At Risk,5
+C05059,Loyal,5
+C05060,Champions,5
+C05061,Loyal,5
+C05062,Champions,5
+C05063,Champions,5
+C05064,Lapsed,4
+C05065,Lapsed,5
+C05066,At Risk,5
+C05067,Developing,2
+C05068,At Risk,5
+C05069,Developing,4
+C05070,Loyal,5
+C05071,Champions,5
+C05072,Champions,5
+C05073,At Risk,4
+C05074,Lapsed,4
+C05075,Champions,5
+C05076,Champions,5
+C05077,Developing,5
+C05078,Developing,3
+C05079,New,3
+C05080,Champions,5
+C05081,Lapsed,3
+C05082,Lapsed,3
+C05083,Champions,5
+C05084,New,1
+C05085,Lapsed,4
+C05086,Developing,5
+C05087,Lapsed,3
+C05088,Lapsed,3
+C05089,Champions,5
+C05090,Champions,5
+C05091,Lapsed,2
+C05092,At Risk,5
+C05093,At Risk,5
+C05094,Champions,4
+C05095,Developing,5
+C05096,At Risk,5
+C05097,Lapsed,3
+C05098,New,3
+C05099,Developing,5
+C05100,New,3
+C05101,Loyal,5
+C05102,Lapsed,4
+C05103,Lapsed,5
+C05104,At Risk,5
+C05105,At Risk,4
+C05106,At Risk,5
+C05107,Champions,5
+C05108,At Risk,5
+C05109,Champions,5
+C05110,Champions,5
+C05111,Lapsed,2
+C05112,At Risk,5
+C05113,Champions,5
+C05114,Developing,4
+C05115,Champions,5
+C05116,New,4
+C05117,Champions,5
+C05118,Lapsed,1
+C05119,New,3
+C05120,Lapsed,4
+C05121,Champions,5
+C05122,Developing,3
+C05123,Champions,5
+C05124,Developing,5
+C05125,Champions,4
+C05126,Developing,2
+C05127,Champions,5
+C05128,Loyal,5
+C05129,Lapsed,3
+C05130,New,5
+C05131,At Risk,4
+C05132,Lapsed,4
+C05133,Champions,5
+C05134,Lapsed,4
+C05135,Champions,5
+C05136,Champions,5
+C05137,Lapsed,4
+C05138,Lapsed,3
+C05139,Lapsed,2
+C05141,Champions,5
+C05142,Developing,4
+C05143,At Risk,5
+C05144,Champions,5
+C05145,Lapsed,3
+C05146,Champions,3
+C05147,Champions,5
+C05148,Lapsed,5
+C05149,Champions,5
+C05150,New,4
+C05151,Lapsed,3
+C05152,Lapsed,3
+C05153,Developing,3
+C05154,Developing,4
+C05155,New,5
+C05156,Lapsed,5
+C05157,Champions,5
+C05158,Developing,5
+C05159,At Risk,5
+C05160,Developing,4
+C05161,Developing,3
+C05162,Lapsed,5
+C05163,Lapsed,3
+C05164,Champions,5
+C05165,At Risk,4
+C05166,Loyal,5
+C05167,Champions,5
+C05168,Champions,5
+C05169,New,4
+C05170,Lapsed,1
+C05171,At Risk,5
+C05172,At Risk,4
+C05173,Lapsed,5
+C05174,Lapsed,3
+C05175,Champions,5
+C05176,Champions,4
+C05177,Loyal,5
+C05178,Lapsed,3
+C05180,Developing,3
+C05181,Lapsed,4
+C05182,Champions,5
+C05183,Lapsed,4
+C05184,Champions,5
+C05185,Champions,5
+C05186,Lapsed,3
+C05187,Loyal,4
+C05188,At Risk,5
+C05189,Champions,5
+C05190,Developing,5
+C05191,Developing,4
+C05192,Champions,5
+C05193,At Risk,4
+C05194,Champions,5
+C05195,Lapsed,5
+C05196,Loyal,5
+C05197,New,1
+C05198,At Risk,5
+C05199,Champions,5
+C05200,Champions,5
+C05201,New,3
+C05202,At Risk,5
+C05203,Developing,4
+C05204,New,3
+C05205,Champions,5
+C05206,At Risk,5
+C05208,Loyal,5
+C05209,New,4
+C05210,Lapsed,2
+C05211,At Risk,5
+C05212,Lapsed,3
+C05213,At Risk,4
+C05215,Champions,4
+C05216,At Risk,5
+C05217,Lapsed,3
+C05218,Lapsed,3
+C05219,Champions,5
+C05220,Lapsed,3
+C05221,Champions,5
+C05222,At Risk,5
+C05223,New,2
+C05224,At Risk,4
+C05225,Loyal,3
+C05226,Loyal,5
+C05227,Developing,5
+C05228,Champions,5
+C05229,Champions,5
+C05230,Lapsed,5
+C05231,Loyal,5
+C05232,Champions,5
+C05233,Champions,5
+C05234,Developing,2
+C05235,Champions,5
+C05236,Lapsed,1
+C05237,Developing,4
+C05238,Lapsed,4
+C05239,New,4
+C05240,Champions,5
+C05241,Lapsed,2
+C05242,Lapsed,3
+C05243,Lapsed,5
+C05244,Champions,5
+C05245,Developing,5
+C05246,At Risk,5
+C05247,Lapsed,4
+C05248,Lapsed,4
+C05249,Lapsed,4
+C05250,New,4
+C05251,Champions,5
+C05252,Lapsed,5
+C05253,New,3
+C05254,Lapsed,5
+C05255,Champions,5
+C05256,At Risk,5
+C05257,New,3
+C05258,Lapsed,4
+C05259,New,3
+C05260,At Risk,5
+C05261,Champions,5
+C05262,Lapsed,4
+C05263,Lapsed,3
+C05264,Loyal,5
+C05265,Lapsed,3
+C05266,Champions,5
+C05267,Lapsed,5
+C05268,Champions,4
+C05269,Developing,4
+C05270,Lapsed,3
+C05271,Loyal,5
+C05272,At Risk,4
+C05273,Champions,5
+C05274,At Risk,5
+C05275,New,1
+C05276,At Risk,5
+C05277,Lapsed,2
+C05278,Champions,4
+C05279,Lapsed,4
+C05280,Developing,4
+C05281,At Risk,5
+C05282,At Risk,5
+C05283,Lapsed,3
+C05284,At Risk,5
+C05285,Loyal,5
+C05286,Lapsed,3
+C05287,Champions,5
+C05288,Lapsed,3
+C05289,Champions,4
+C05290,Champions,5
+C05291,Lapsed,2
+C05292,Lapsed,2
+C05293,Lapsed,4
+C05294,Lapsed,5
+C05295,At Risk,5
+C05296,Lapsed,3
+C05297,Champions,5
+C05299,Champions,4
+C05300,Champions,5
+C05301,Loyal,5
+C05302,Champions,5
+C05303,Champions,5
+C05305,Champions,5
+C05306,New,1
+C05307,Developing,3
+C05308,At Risk,5
+C05309,New,3
+C05310,Champions,5
+C05311,At Risk,3
+C05312,At Risk,5
+C05313,Loyal,5
+C05314,Champions,5
+C05315,At Risk,4
+C05316,Loyal,5
+C05317,Champions,5
+C05318,At Risk,4
+C05319,Champions,5
+C05320,Champions,5
+C05321,Lapsed,3
+C05322,At Risk,5
+C05323,Lapsed,4
+C05324,Developing,5
+C05325,Champions,5
+C05326,At Risk,4
+C05327,Champions,5
+C05328,Developing,5
+C05329,Lapsed,4
+C05330,Champions,5
+C05331,Developing,5
+C05332,Lapsed,4
+C05333,Lapsed,4
+C05334,Lapsed,4
+C05335,At Risk,4
+C05336,Lapsed,2
+C05337,At Risk,5
+C05338,At Risk,5
+C05339,Loyal,5
+C05340,Lapsed,5
+C05341,Developing,4
+C05342,Lapsed,4
+C05343,At Risk,5
+C05344,New,4
+C05345,Developing,5
+C05346,Developing,4
+C05347,Lapsed,4
+C05348,Lapsed,2
+C05349,At Risk,5
+C05350,Developing,5
+C05351,Champions,5
+C05352,Lapsed,1
+C05353,Champions,5
+C05354,Champions,5
+C05355,Champions,5
+C05356,At Risk,5
+C05357,Champions,5
+C05358,Champions,5
+C05359,Champions,5
+C05360,At Risk,5
+C05361,At Risk,4
+C05362,At Risk,5
+C05363,Loyal,4
+C05364,Champions,5
+C05365,Loyal,5
+C05366,At Risk,4
+C05367,Lapsed,4
+C05368,Champions,5
+C05369,Champions,4
+C05370,Developing,5
+C05371,Lapsed,4
+C05372,Developing,4
+C05373,Champions,5
+C05374,Champions,5
+C05375,Champions,5
+C05376,Lapsed,3
+C05377,Lapsed,3
+C05378,Developing,5
+C05379,New,5
+C05380,Developing,5
+C05381,New,3
+C05382,Loyal,5
+C05383,At Risk,5
+C05384,New,4
+C05385,Loyal,5
+C05386,At Risk,4
+C05387,At Risk,5
+C05388,New,5
+C05389,Champions,5
+C05390,Lapsed,3
+C05391,New,1
+C05392,At Risk,5
+C05393,Developing,5
+C05394,Developing,5
+C05395,Developing,4
+C05396,Lapsed,3
+C05397,Developing,4
+C05398,New,3
+C05399,Loyal,4
+C05400,Lapsed,5
+C05401,New,2
+C05402,New,4
+C05404,New,1
+C05405,Loyal,5
+C05406,Developing,4
+C05407,Developing,5
+C05408,Lapsed,4
+C05409,Lapsed,3
+C05410,Developing,5
+C05411,Lapsed,5
+C05412,Champions,5
+C05413,At Risk,5
+C05414,Developing,4
+C05415,Champions,5
+C05417,Developing,4
+C05418,Loyal,5
+C05419,Champions,4
+C05420,At Risk,5
+C05421,Lapsed,2
+C05422,Lapsed,3
+C05423,Loyal,5
+C05424,Developing,5
+C05425,Lapsed,4
+C05426,At Risk,5
+C05427,Lapsed,2
+C05428,Lapsed,4
+C05429,Developing,5
+C05430,Lapsed,1
+C05431,Developing,5
+C05432,Champions,5
+C05433,At Risk,5
+C05434,Loyal,5
+C05435,Champions,5
+C05436,New,4
+C05437,Champions,5
+C05438,Lapsed,3
+C05439,Lapsed,4
+C05440,Lapsed,4
+C05441,Developing,3
+C05442,Champions,5
+C05443,Developing,4
+C05444,Lapsed,2
+C05445,New,4
+C05446,Champions,5
+C05447,Loyal,5
+C05448,At Risk,5
+C05449,Champions,5
+C05450,Champions,5
+C05451,Loyal,5
+C05452,At Risk,4
+C05453,Champions,5
+C05454,Lapsed,5
+C05455,Lapsed,3
+C05456,Champions,5
+C05457,Lapsed,5
+C05458,Developing,5
+C05459,Lapsed,2
+C05460,Loyal,5
+C05461,Champions,5
+C05462,Lapsed,5
+C05463,Lapsed,2
+C05464,Lapsed,2
+C05465,Developing,3
+C05466,Developing,5
+C05467,Loyal,5
+C05468,Lapsed,1
+C05469,At Risk,5
+C05470,At Risk,4
+C05471,Loyal,5
+C05472,Developing,5
+C05473,Developing,3
+C05474,Lapsed,5
+C05475,Loyal,5
+C05476,Champions,5
+C05478,Champions,5
+C05479,Champions,5
+C05480,Champions,5
+C05481,Lapsed,2
+C05482,New,5
+C05483,Developing,4
+C05484,At Risk,5
+C05485,At Risk,5
+C05486,At Risk,5
+C05487,Lapsed,4
+C05488,New,4
+C05489,At Risk,5
+C05490,Loyal,5
+C05491,Developing,4
+C05492,New,5
+C05493,Loyal,5
+C05494,Lapsed,4
+C05495,New,1
+C05496,Loyal,5
+C05497,Developing,4
+C05498,Champions,5
+C05499,Lapsed,1
+C05500,Loyal,5
+C05501,Champions,5
+C05502,Developing,4
+C05503,Champions,5
+C05504,At Risk,5
+C05505,Champions,5
+C05506,Lapsed,3
+C05507,Lapsed,5
+C05508,Developing,3
+C05509,Champions,5
+C05510,Developing,4
+C05511,At Risk,5
+C05512,At Risk,5
+C05513,Champions,5
+C05514,Lapsed,5
+C05515,Developing,4
+C05516,Loyal,5
+C05517,Developing,5
+C05518,Champions,5
+C05519,Loyal,5
+C05520,Lapsed,4
+C05521,Champions,5
+C05522,At Risk,5
+C05523,Champions,5
+C05524,Lapsed,3
+C05525,Developing,5
+C05526,At Risk,5
+C05527,At Risk,5
+C05528,Lapsed,2
+C05529,At Risk,5
+C05530,New,5
+C05531,New,5
+C05532,Developing,5
+C05533,Developing,3
+C05534,Lapsed,4
+C05535,Lapsed,2
+C05536,Champions,5
+C05537,Lapsed,4
+C05538,Lapsed,5
+C05539,Lapsed,3
+C05540,At Risk,5
+C05541,Champions,5
+C05542,At Risk,5
+C05543,Loyal,5
+C05545,Champions,5
+C05546,Loyal,5
+C05547,Champions,5
+C05548,Lapsed,5
+C05549,Loyal,5
+C05550,Lapsed,3
+C05551,Champions,5
+C05552,Champions,4
+C05553,Lapsed,4
+C05554,Lapsed,4
+C05555,Developing,4
+C05556,Lapsed,4
+C05557,At Risk,5
+C05558,New,5
+C05559,Lapsed,5
+C05560,New,4
+C05561,Loyal,5
+C05562,Champions,5
+C05563,Champions,5
+C05564,Champions,3
+C05565,Lapsed,5
+C05566,Developing,1
+C05567,At Risk,4
+C05568,Champions,4
+C05569,At Risk,5
+C05570,Developing,5
+C05571,Champions,5
+C05572,Lapsed,2
+C05573,Champions,4
+C05574,Lapsed,3
+C05575,Lapsed,4
+C05576,Lapsed,4
+C05577,Champions,5
+C05578,Developing,5
+C05579,At Risk,4
+C05580,Lapsed,2
+C05581,Champions,5
+C05582,Lapsed,5
+C05583,Champions,5
+C05584,Lapsed,5
+C05585,Champions,4
+C05586,Loyal,4
+C05587,At Risk,5
+C05588,Lapsed,4
+C05589,At Risk,5
+C05590,Lapsed,5
+C05591,Lapsed,4
+C05592,Champions,5
+C05593,Lapsed,2
+C05594,Lapsed,4
+C05595,Developing,5
+C05596,Lapsed,3
+C05597,At Risk,5
+C05598,New,4
+C05599,Loyal,5
+C05600,Lapsed,4
+C05601,Lapsed,5
+C05602,At Risk,5
+C05603,Champions,5
+C05604,Lapsed,4
+C05605,At Risk,5
+C05606,New,4
+C05607,Champions,5
+C05608,At Risk,5
+C05609,Champions,5
+C05610,At Risk,4
+C05611,Lapsed,4
+C05612,Developing,4
+C05613,At Risk,5
+C05614,Loyal,5
+C05615,Lapsed,4
+C05616,At Risk,5
+C05617,Lapsed,1
+C05618,New,3
+C05619,Champions,4
+C05620,New,5
+C05621,Loyal,5
+C05622,Lapsed,3
+C05623,Lapsed,4
+C05624,Champions,5
+C05625,At Risk,5
+C05626,At Risk,5
+C05627,Lapsed,3
+C05628,Champions,5
+C05629,Developing,5
+C05630,Champions,5
+C05631,Developing,5
+C05632,Champions,5
+C05633,Champions,5
+C05634,Champions,5
+C05635,Lapsed,4
+C05636,Loyal,3
+C05637,Loyal,5
+C05638,Lapsed,2
+C05639,Champions,5
+C05640,Champions,4
+C05641,Lapsed,3
+C05642,Lapsed,3
+C05643,Lapsed,4
+C05644,Lapsed,5
+C05645,Champions,5
+C05646,Lapsed,4
+C05647,Champions,5
+C05648,Lapsed,1
+C05649,At Risk,5
+C05650,Lapsed,5
+C05651,Champions,5
+C05652,Champions,4
+C05653,New,3
+C05654,Loyal,5
+C05655,Lapsed,5
+C05656,Loyal,5
+C05657,Lapsed,5
+C05658,At Risk,5
+C05659,New,4
+C05660,Champions,5
+C05661,Champions,5
+C05662,At Risk,5
+C05663,Developing,4
+C05664,At Risk,4
+C05665,Champions,5
+C05666,Loyal,5
+C05667,Lapsed,2
+C05668,Lapsed,4
+C05669,Champions,5
+C05670,At Risk,4
+C05671,Developing,5
+C05672,Developing,4
+C05673,Lapsed,1
+C05674,Developing,3
+C05675,Loyal,4
+C05676,Champions,4
+C05677,Champions,5
+C05678,At Risk,5
+C05679,Loyal,5
+C05680,Developing,5
+C05681,Lapsed,3
+C05682,Developing,5
+C05683,Champions,5
+C05684,At Risk,4
+C05685,Developing,5
+C05686,Lapsed,4
+C05687,Developing,4
+C05688,Champions,4
+C05689,Champions,5
+C05690,Champions,5
+C05691,Lapsed,3
+C05692,New,4
+C05693,Developing,5
+C05694,New,3
+C05695,Champions,5
+C05696,Lapsed,2
+C05697,Loyal,5
+C05698,New,3
+C05699,Loyal,5
+C05701,New,1
+C05702,Developing,2
+C05703,Champions,5
+C05704,Lapsed,4
+C05705,Developing,5
+C05706,Champions,5
+C05707,Loyal,5
+C05708,At Risk,5
+C05709,Developing,4
+C05710,Developing,4
+C05711,Lapsed,4
+C05712,Loyal,5
+C05713,New,3
+C05714,Champions,5
+C05716,Loyal,4
+C05717,At Risk,5
+C05718,At Risk,5
+C05719,Lapsed,5
+C05720,Developing,4
+C05721,Champions,5
+C05722,New,1
+C05723,At Risk,4
+C05724,Developing,5
+C05725,New,4
+C05726,Champions,5
+C05727,Champions,4
+C05728,New,4
+C05729,New,1
+C05730,At Risk,5
+C05731,Developing,4
+C05732,Loyal,5
+C05733,At Risk,5
+C05734,Lapsed,5
+C05735,At Risk,5
+C05736,Champions,5
+C05737,Champions,4
+C05738,Developing,5
+C05739,Champions,5
+C05740,Champions,5
+C05741,Champions,5
+C05742,Loyal,5
+C05743,Loyal,5
+C05744,Loyal,5
+C05745,Lapsed,1
+C05746,Champions,5
+C05747,Champions,5
+C05748,Champions,5
+C05749,Lapsed,3
+C05750,Lapsed,5
+C05751,Developing,5
+C05752,Lapsed,2
+C05753,New,3
+C05754,At Risk,5
+C05755,Lapsed,5
+C05756,Loyal,5
+C05757,Champions,5
+C05758,Developing,5
+C05759,At Risk,5
+C05760,New,3
+C05761,At Risk,4
+C05762,At Risk,5
+C05763,New,5
+C05764,Developing,5
+C05765,Loyal,5
+C05766,Loyal,5
+C05767,Developing,5
+C05768,Champions,5
+C05769,At Risk,4
+C05770,Lapsed,2
+C05771,Lapsed,4
+C05772,Developing,2
+C05773,Champions,5
+C05774,Developing,5
+C05775,Loyal,5
+C05776,Loyal,5
+C05777,At Risk,5
+C05778,Lapsed,5
+C05779,New,2
+C05780,Lapsed,3
+C05781,New,2
+C05782,Developing,4
+C05783,At Risk,5
+C05784,Champions,5
+C05785,Developing,5
+C05786,Lapsed,3
+C05787,Champions,5
+C05788,Lapsed,3
+C05789,Champions,4
+C05790,Champions,5
+C05791,Lapsed,3
+C05792,New,4
+C05793,Lapsed,3
+C05794,Champions,5
+C05795,Lapsed,2
+C05796,Champions,4
+C05797,Champions,5
+C05798,Loyal,5
+C05799,Loyal,5
+C05800,At Risk,4
+C05801,Developing,4
+C05802,Lapsed,4
+C05803,Champions,5
+C05804,Champions,4
+C05805,Lapsed,5
+C05806,New,4
+C05807,Lapsed,2
+C05808,Lapsed,2
+C05809,Champions,5
+C05810,Champions,5
+C05811,Lapsed,2
+C05812,At Risk,5
+C05813,At Risk,4
+C05814,Lapsed,3
+C05815,At Risk,5
+C05816,At Risk,4
+C05817,Developing,3
+C05818,New,4
+C05819,Loyal,5
+C05820,Developing,5
+C05821,Champions,5
+C05822,New,2
+C05823,Champions,5
+C05824,At Risk,5
+C05825,Champions,5
+C05826,New,5
+C05827,Developing,2
+C05828,Champions,5
+C05829,Loyal,5
+C05830,Loyal,5
+C05831,Developing,4
+C05832,Developing,5
+C05833,At Risk,5
+C05834,At Risk,5
+C05835,New,3
+C05836,New,5
+C05837,New,3
+C05838,Loyal,5
+C05839,Champions,5
+C05840,New,4
+C05841,At Risk,5
+C05842,At Risk,5
+C05843,New,4
+C05844,At Risk,5
+C05845,New,3
+C05846,Loyal,4
+C05847,At Risk,4
+C05848,Lapsed,3
+C05849,Champions,5
+C05850,Lapsed,3
+C05851,Lapsed,5
+C05852,Lapsed,5
+C05853,At Risk,4
+C05854,Lapsed,5
+C05855,Developing,4
+C05856,At Risk,4
+C05857,Lapsed,5
+C05858,Lapsed,2
+C05859,Developing,4
+C05860,New,2
+C05861,Developing,3
+C05862,Champions,5
+C05863,Champions,5
+C05864,At Risk,5
+C05865,Champions,5
+C05866,At Risk,5
+C05867,Loyal,5
+C05868,New,5
+C05869,Champions,5
+C05870,Lapsed,4
+C05871,Lapsed,3
+C05872,At Risk,5
+C05873,Lapsed,3
+C05874,At Risk,5
+C05875,Loyal,5
+C05876,Lapsed,5
+C05877,Developing,5
+C05878,Champions,5
+C05879,New,4
+C05880,Developing,5
+C05881,Lapsed,4
+C05882,Champions,5
+C05883,Champions,5
+C05884,Developing,5
+C05885,Developing,4
+C05886,Loyal,5
+C05887,Loyal,5
+C05888,Champions,5
+C05889,Champions,5
+C05890,Developing,3
+C05891,At Risk,5
+C05892,Loyal,5
+C05893,New,5
+C05894,Developing,5
+C05895,Champions,5
+C05896,At Risk,5
+C05897,New,3
+C05898,Lapsed,4
+C05899,At Risk,5
+C05900,Champions,5
+C05901,Developing,3
+C05902,Developing,2
+C05903,Lapsed,3
+C05904,Champions,5
+C05905,Developing,5
+C05906,Champions,5
+C05907,At Risk,5
+C05908,Champions,5
+C05909,At Risk,5
+C05910,Developing,5
+C05911,Champions,5
+C05912,Champions,5
+C05913,Champions,5
+C05914,Developing,4
+C05915,Champions,5
+C05916,Developing,5
+C05917,Champions,5
+C05918,At Risk,5
+C05919,Lapsed,4
+C05920,Champions,5
+C05921,Lapsed,5
+C05922,At Risk,5
+C05923,Loyal,5
+C05924,Loyal,5
+C05925,Lapsed,1
+C05926,Developing,5
+C05927,Lapsed,3
+C05928,At Risk,5
+C05929,At Risk,5
+C05930,Developing,5
+C05931,Loyal,5
+C05932,Lapsed,5
+C05933,Lapsed,3
+C05934,Champions,5
+C05935,New,4
+C05936,At Risk,5
+C05937,Loyal,5
+C05938,At Risk,5
+C05939,Lapsed,5
+C05940,At Risk,5
+C05941,Champions,5
+C05942,Champions,5
+C05943,At Risk,5
+C05944,Champions,5
+C05945,Champions,5
+C05946,New,4
+C05947,Lapsed,1
+C05948,Developing,5
+C05949,Developing,5
+C05950,Champions,5
+C05951,Champions,5
+C05952,Loyal,5
+C05953,Lapsed,4
+C05954,Champions,5
+C05955,Loyal,5
+C05956,New,2
+C05957,Developing,5
+C05958,At Risk,5
+C05959,At Risk,5
+C05961,Champions,4
+C05962,New,3
+C05963,Lapsed,4
+C05964,Lapsed,3
+C05965,At Risk,5
+C05966,New,4
+C05967,Champions,5
+C05968,At Risk,5
+C05969,Champions,5
+C05970,Lapsed,2
+C05971,Lapsed,3
+C05972,Champions,5
+C05973,New,2
+C05974,New,4
+C05975,Developing,5
+C05976,Champions,4
+C05977,Champions,5
+C05978,Champions,5
+C05979,Lapsed,5
+C05980,Developing,5
+C05981,Lapsed,3
+C05982,Developing,4
+C05983,Loyal,5
+C05984,Lapsed,1
+C05985,Developing,4
+C05986,Loyal,5
+C05987,Developing,4
+C05988,Champions,5
+C05989,Lapsed,5
+C05990,Champions,5
+C05991,Lapsed,4
+C05992,Champions,5
+C05993,At Risk,5
+C05994,Lapsed,5
+C05995,Champions,5
+C05996,At Risk,5
+C05997,Loyal,5
+C05998,Lapsed,3
+C05999,Developing,1
+C06000,Developing,5
